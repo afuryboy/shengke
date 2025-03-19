@@ -1,0 +1,18 @@
+{
+  "data": [
+    { "stationId": 1, "stationName": "二十二大街", "model": 1, "level": 1 },
+    { "stationId": 2, "stationName": "怡景花园", "model": 1, "level": 1 },
+    { "stationId": 3, "stationName": "白云特神", "model": 2, "level": 1 },
+    { "stationId": 4, "stationName": "龙威家具", "model": 2, "level": 1 },
+    { "stationId": 5, "stationName": "纬和电站", "model": 3, "level": 2 },
+    { "stationId": 6, "stationName": "东莞庭丰", "model": 2, "level": 2 },
+    { "stationId": 7, "stationName": "卫理高尔夫", "model": 2, "level": 2 },
+    { "stationId": 8, "stationName": "东莞居天时雨", "model": 1, "level": 3 },
+    { "stationId": 9, "stationName": "东莞翔国", "model": 1, "level": 3 },
+    { "stationId": 10, "stationName": "海四达新能源", "model": 1, "level": 3 }
+  ],
+  "normalStrategyIncome": ["1.67", "万元"],
+  "aiStrategyIncome": ["2.27", "万元"],
+  "estimateImproveIncome": ["0.6", "万元"],
+  "estimateImprovePercent": "35.9"
+}
