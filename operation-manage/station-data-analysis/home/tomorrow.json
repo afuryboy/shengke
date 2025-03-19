@@ -16,20 +16,20 @@
       "timeFrameType": 2
     },
     {
+      "start": "10:00",
+      "end": "11:00",
+      "startTime": "100000",
+      "endTime": "110000",
+      "elecPrice": null,
+      "timeFrameType": 1
+    },
+    {
       "start": "11:00",
       "end": "12:00",
       "startTime": "110000",
       "endTime": "120000",
       "elecPrice": null,
       "timeFrameType": 0
-    },
-    {
-      "start": "10:00",
-      "end": "12:00",
-      "startTime": "100000",
-      "endTime": "120000",
-      "elecPrice": null,
-      "timeFrameType": 1
     },
     {
       "start": "12:00",
