@@ -1,6 +1,9 @@
 {
   "defaultIncome": 1663.6,
+  "defaultIncomeUnit": "元",
   "aiIncome": 2262.48,
+  "aiIncomeUnit": "元",
   "promoteIncome": 598.88,
+  "promoteIncomeUnit": "元",
   "promoteRate": 36
 }
