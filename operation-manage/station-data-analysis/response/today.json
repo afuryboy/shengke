@@ -1,0 +1,540 @@
+{
+  "inviteList": [
+    {
+      "day": "2025-03-09",
+      "type": "削峰",
+      "timeRange": "16:00-17:00",
+      "capacity": 1500,
+      "deadline": "2025-03-08 11:00:00"
+    }
+  ],
+  "data": [
+    {
+      "time": "16:00",
+      "bidCapacity": 375,
+      "bidElePrice": 0.9,
+      "baselineLoad": 1476.2,
+      "actualEnergyOutput": 1353.2,
+      "resCapacity": 123,
+      "forecastIncome": 0
+    },
+    {
+      "time": "16:15",
+      "bidCapacity": 375,
+      "bidElePrice": 0.9,
+      "baselineLoad": 1437.3,
+      "actualEnergyOutput": 1237.3,
+      "resCapacity": 200,
+      "forecastIncome": 0
+    },
+    {
+      "time": "16:30",
+      "bidCapacity": 375,
+      "bidElePrice": 0.9,
+      "baselineLoad": 1504.7,
+      "actualEnergyOutput": 1384.7,
+      "resCapacity": 120,
+      "forecastIncome": 0
+    },
+    {
+      "time": "16:45",
+      "bidCapacity": 375,
+      "bidElePrice": 0.9,
+      "baselineLoad": 1826.8,
+      "actualEnergyOutput": 1646.8,
+      "resCapacity": 180,
+      "forecastIncome": 0
+    }
+  ],
+
+  "runList": [
+    {
+      "time": "00:00",
+      "baselineLoad": 966.866666666667,
+      "actualEnergyOutput": 379.3
+    },
+    {
+      "time": "00:15",
+      "baselineLoad": 1244.9,
+      "actualEnergyOutput": 791.3
+    },
+    {
+      "time": "00:30",
+      "baselineLoad": 1235.2,
+      "actualEnergyOutput": 754.7
+    },
+    {
+      "time": "00:45",
+      "baselineLoad": 1294.03333333333,
+      "actualEnergyOutput": 810.2
+    },
+    {
+      "time": "01:00",
+      "baselineLoad": 1280.16666666667,
+      "actualEnergyOutput": 1026.9
+    },
+    {
+      "time": "01:15",
+      "baselineLoad": 1264.2,
+      "actualEnergyOutput": 1063.4
+    },
+    {
+      "time": "01:30",
+      "baselineLoad": 1252.86666666667,
+      "actualEnergyOutput": 1318
+    },
+    {
+      "time": "01:45",
+      "baselineLoad": 1281.83333333333,
+      "actualEnergyOutput": 1021.9
+    },
+    {
+      "time": "02:00",
+      "baselineLoad": 1233.53333333333,
+      "actualEnergyOutput": 1302.8
+    },
+    {
+      "time": "02:15",
+      "baselineLoad": 1264.16666666667,
+      "actualEnergyOutput": 1305.4
+    },
+    {
+      "time": "02:30",
+      "baselineLoad": 1247.4,
+      "actualEnergyOutput": 1601.5
+    },
+    {
+      "time": "02:45",
+      "baselineLoad": 1241.93333333333,
+      "actualEnergyOutput": 1624.1
+    },
+    {
+      "time": "03:00",
+      "baselineLoad": 1228.06666666667,
+      "actualEnergyOutput": 1625.4
+    },
+    {
+      "time": "03:15",
+      "baselineLoad": 1191.13333333333,
+      "actualEnergyOutput": 1766.5
+    },
+    {
+      "time": "03:30",
+      "baselineLoad": 1203.7,
+      "actualEnergyOutput": 1441.4
+    },
+    {
+      "time": "03:45",
+      "baselineLoad": 1209.16666666667,
+      "actualEnergyOutput": 1208.3
+    },
+    {
+      "time": "04:00",
+      "baselineLoad": 1194.9,
+      "actualEnergyOutput": 1706
+    },
+    {
+      "time": "04:15",
+      "baselineLoad": 1191.93333333333,
+      "actualEnergyOutput": 1735
+    },
+    {
+      "time": "04:30",
+      "baselineLoad": 1194.86666666667,
+      "actualEnergyOutput": 1577.5
+    },
+    {
+      "time": "04:45",
+      "baselineLoad": 1183.13333333333,
+      "actualEnergyOutput": 1654.4
+    },
+    {
+      "time": "05:00",
+      "baselineLoad": 1071.8,
+      "actualEnergyOutput": 1604
+    },
+    {
+      "time": "05:15",
+      "baselineLoad": 834.933333333333,
+      "actualEnergyOutput": 1238.6
+    },
+    {
+      "time": "05:30",
+      "baselineLoad": 738.766666666667,
+      "actualEnergyOutput": 1249.9
+    },
+    {
+      "time": "05:45",
+      "baselineLoad": 703.5,
+      "actualEnergyOutput": 1302.8
+    },
+    {
+      "time": "06:00",
+      "baselineLoad": 567.833333333333,
+      "actualEnergyOutput": 1329.3
+    },
+    {
+      "time": "06:15",
+      "baselineLoad": 568.233333333333,
+      "actualEnergyOutput": 1154.2
+    },
+    {
+      "time": "06:30",
+      "baselineLoad": 568.666666666667,
+      "actualEnergyOutput": 1100
+    },
+    {
+      "time": "06:45",
+      "baselineLoad": 566.566666666667,
+      "actualEnergyOutput": 1118.9
+    },
+    {
+      "time": "07:00",
+      "baselineLoad": 569.5,
+      "actualEnergyOutput": 908.5
+    },
+    {
+      "time": "07:15",
+      "baselineLoad": 569.1,
+      "actualEnergyOutput": 594.7
+    },
+    {
+      "time": "07:30",
+      "baselineLoad": 795.066666666667,
+      "actualEnergyOutput": 570.8
+    },
+    {
+      "time": "07:45",
+      "baselineLoad": 692.566666666667,
+      "actualEnergyOutput": 550.6
+    },
+    {
+      "time": "08:00",
+      "baselineLoad": 834.5,
+      "actualEnergyOutput": 704.3
+    },
+    {
+      "time": "08:15",
+      "baselineLoad": 776.966666666667,
+      "actualEnergyOutput": 811.4
+    },
+    {
+      "time": "08:30",
+      "baselineLoad": 1257.06666666667,
+      "actualEnergyOutput": 1084.9
+    },
+    {
+      "time": "08:45",
+      "baselineLoad": 1578.76666666667,
+      "actualEnergyOutput": 1806.8
+    },
+    {
+      "time": "09:00",
+      "baselineLoad": 1576.23333333333,
+      "actualEnergyOutput": 1774.1
+    },
+    {
+      "time": "09:15",
+      "baselineLoad": 1684.2,
+      "actualEnergyOutput": 1803.1
+    },
+    {
+      "time": "09:30",
+      "baselineLoad": 1732.46666666667,
+      "actualEnergyOutput": 1702.3
+    },
+    {
+      "time": "09:45",
+      "baselineLoad": 1711.9,
+      "actualEnergyOutput": 1815.7
+    },
+    {
+      "time": "10:00",
+      "baselineLoad": 1556.5,
+      "actualEnergyOutput": 1726.2
+    },
+    {
+      "time": "10:15",
+      "baselineLoad": 1044.96666666667,
+      "actualEnergyOutput": 883.3
+    },
+    {
+      "time": "10:30",
+      "baselineLoad": 723.633333333333,
+      "actualEnergyOutput": 1111.3
+    },
+    {
+      "time": "10:45",
+      "baselineLoad": 894.6,
+      "actualEnergyOutput": 977.8
+    },
+    {
+      "time": "11:00",
+      "baselineLoad": 1134.86666666666,
+      "actualEnergyOutput": 927.4
+    },
+    {
+      "time": "11:15",
+      "baselineLoad": 820.033333333333,
+      "actualEnergyOutput": 810.2
+    },
+    {
+      "time": "11:30",
+      "baselineLoad": 1387.16666666666,
+      "actualEnergyOutput": 1315.4
+    },
+    {
+      "time": "11:45",
+      "baselineLoad": 1867.23333333333,
+      "actualEnergyOutput": 1625.4
+    },
+    {
+      "time": "12:00",
+      "baselineLoad": 978.166666666667,
+      "actualEnergyOutput": 1314.2
+    },
+    {
+      "time": "12:15",
+      "baselineLoad": 1788.8,
+      "actualEnergyOutput": 2299.5
+    },
+    {
+      "time": "12:30",
+      "baselineLoad": 1826.16666666667,
+      "actualEnergyOutput": 2294.5
+    },
+    {
+      "time": "12:45",
+      "baselineLoad": 1921.93333333333,
+      "actualEnergyOutput": 2286.9
+    },
+    {
+      "time": "13:00",
+      "baselineLoad": 1995.8,
+      "actualEnergyOutput": 2420.5
+    },
+    {
+      "time": "13:15",
+      "baselineLoad": 1796.33333333333,
+      "actualEnergyOutput": 2516.2
+    },
+    {
+      "time": "13:30",
+      "baselineLoad": 2748.46666666667,
+      "actualEnergyOutput": 2565.4
+    },
+    {
+      "time": "13:45",
+      "baselineLoad": 2544.36666666667,
+      "actualEnergyOutput": 2619.5
+    },
+    {
+      "time": "14:00",
+      "baselineLoad": 1819.03333333333,
+      "actualEnergyOutput": 2250.4
+    },
+    {
+      "time": "14:15",
+      "baselineLoad": 1535.5,
+      "actualEnergyOutput": 2385.2
+    },
+    {
+      "time": "14:30",
+      "baselineLoad": 1434.3,
+      "actualEnergyOutput": 2231.5
+    },
+    {
+      "time": "14:45",
+      "baselineLoad": 1574.16666666667,
+      "actualEnergyOutput": 2295.7
+    },
+    {
+      "time": "15:00",
+      "baselineLoad": 1483.43333333333,
+      "actualEnergyOutput": 2356.2
+    },
+    {
+      "time": "15:15",
+      "baselineLoad": 716.933333333333,
+      "actualEnergyOutput": 1406.2
+    },
+    {
+      "time": "15:30",
+      "baselineLoad": 643,
+      "actualEnergyOutput": 1183.1
+    },
+    {
+      "time": "15:45",
+      "baselineLoad": 879.033333333333,
+      "actualEnergyOutput": 1183.1
+    },
+    {
+      "time": "16:00",
+      "bidCapacity": 375,
+      "resCapacity": 1.2,
+      "baselineLoad": 1476.2,
+      "actualEnergyOutput": 1353.2
+    },
+    {
+      "time": "16:15",
+      "bidCapacity": 375,
+      "resCapacity": 1.2,
+      "baselineLoad": 1437.3,
+      "actualEnergyOutput": 1237.3
+    },
+    {
+      "time": "16:30",
+      "bidCapacity": 375,
+      "resCapacity": 1.2,
+      "baselineLoad": 1504.7,
+      "actualEnergyOutput": 1384.7
+    },
+    {
+      "time": "16:45",
+      "bidCapacity": 375,
+      "resCapacity": 1.2,
+      "baselineLoad": 1826.8,
+      "actualEnergyOutput": 1646.8
+    },
+    {
+      "time": "17:00",
+      "baselineLoad": 1662.76666666667,
+      "actualEnergyOutput": 1401.1
+    },
+    {
+      "time": "17:15",
+      "baselineLoad": 1626.66666666667,
+      "actualEnergyOutput": 1488.1
+    },
+    {
+      "time": "17:30",
+      "baselineLoad": 1617,
+      "actualEnergyOutput": 1377.2
+    },
+    {
+      "time": "17:45",
+      "baselineLoad": 1425.46666666667,
+      "actualEnergyOutput": 1205.8
+    },
+    {
+      "time": "18:00",
+      "baselineLoad": 876.933333333333,
+      "actualEnergyOutput": 549.4
+    },
+    {
+      "time": "18:15",
+      "baselineLoad": 955.9,
+      "actualEnergyOutput": 965.2
+    },
+    {
+      "time": "18:30",
+      "baselineLoad": 1134.43333333333,
+      "actualEnergyOutput": 985.3
+    },
+    {
+      "time": "18:45",
+      "baselineLoad": 1521.23333333333,
+      "actualEnergyOutput": 1571.2
+    },
+    {
+      "time": "19:00",
+      "baselineLoad": 1496.86666666667,
+      "actualEnergyOutput": 1566.2
+    },
+    {
+      "time": "19:15",
+      "baselineLoad": 1483.86666666667,
+      "actualEnergyOutput": 1762.7
+    },
+    {
+      "time": "19:30",
+      "baselineLoad": 1456.16666666667,
+      "actualEnergyOutput": 2099.2
+    },
+    {
+      "time": "19:45",
+      "baselineLoad": 1597.26666666667,
+      "actualEnergyOutput": 1983.2
+    },
+    {
+      "time": "20:00",
+      "baselineLoad": 1534.66666666667,
+      "actualEnergyOutput": 1931.6
+    },
+    {
+      "time": "20:15",
+      "baselineLoad": 1653.93333333333,
+      "actualEnergyOutput": 2047.5
+    },
+    {
+      "time": "20:30",
+      "baselineLoad": 1428.86666666667,
+      "actualEnergyOutput": 1898.8
+    },
+    {
+      "time": "20:45",
+      "baselineLoad": 1597.23333333333,
+      "actualEnergyOutput": 1784.2
+    },
+    {
+      "time": "21:00",
+      "baselineLoad": 861,
+      "actualEnergyOutput": 1066
+    },
+    {
+      "time": "21:15",
+      "baselineLoad": 754.733333333333,
+      "actualEnergyOutput": 1135.3
+    },
+    {
+      "time": "21:30",
+      "baselineLoad": 639.666666666667,
+      "actualEnergyOutput": 1190.7
+    },
+    {
+      "time": "21:45",
+      "baselineLoad": 584.633333333333,
+      "actualEnergyOutput": 1150.4
+    },
+    {
+      "time": "22:00",
+      "baselineLoad": 604.8,
+      "actualEnergyOutput": 1154.2
+    },
+    {
+      "time": "22:15",
+      "baselineLoad": 551.033333333333,
+      "actualEnergyOutput": 1141.6
+    },
+    {
+      "time": "22:30",
+      "baselineLoad": 542.633333333333,
+      "actualEnergyOutput": 1174.3
+    },
+    {
+      "time": "22:45",
+      "baselineLoad": 535.1,
+      "actualEnergyOutput": 1163
+    },
+    {
+      "time": "23:00",
+      "baselineLoad": 538.433333333333,
+      "actualEnergyOutput": 1171.8
+    },
+    {
+      "time": "23:15",
+      "baselineLoad": 535.5,
+      "actualEnergyOutput": 1117.6
+    },
+    {
+      "time": "23:30",
+      "baselineLoad": 520.366666666667,
+      "actualEnergyOutput": 1160.5
+    },
+    {
+      "time": "23:45",
+      "baselineLoad": 602.666666666667,
+      "actualEnergyOutput": 1145.3
+    }
+  ]
+}
