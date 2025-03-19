@@ -1,0 +1,60 @@
+{
+  "policyInfo": [
+    {
+      "start": "00:00",
+      "end": "08:00",
+      "startTime": "000000",
+      "endTime": "080000",
+      "elecPrice": null,
+      "timeFrameType": 3
+    },
+    {
+      "start": "08:00",
+      "end": "10:00",
+      "startTime": "080000",
+      "endTime": "100000",
+      "elecPrice": null,
+      "timeFrameType": 2
+    },
+    {
+      "start": "11:00",
+      "end": "12:00",
+      "startTime": "110000",
+      "endTime": "120000",
+      "elecPrice": null,
+      "timeFrameType": 0
+    },
+    {
+      "start": "10:00",
+      "end": "12:00",
+      "startTime": "100000",
+      "endTime": "120000",
+      "elecPrice": null,
+      "timeFrameType": 1
+    },
+    {
+      "start": "12:00",
+      "end": "14:00",
+      "startTime": "120000",
+      "endTime": "140000",
+      "elecPrice": null,
+      "timeFrameType": 2
+    },
+    {
+      "start": "14:00",
+      "end": "19:00",
+      "startTime": "140000",
+      "endTime": "190000",
+      "elecPrice": null,
+      "timeFrameType": 1
+    },
+    {
+      "start": "19:00",
+      "end": "24:00",
+      "startTime": "190000",
+      "endTime": "240000",
+      "elecPrice": null,
+      "timeFrameType": 2
+    }
+  ]
+}
