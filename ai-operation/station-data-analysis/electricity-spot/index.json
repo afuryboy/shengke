@@ -1,0 +1,773 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "date": "2025-03-10",
+      "time": "00:00",
+      "dailyElePriceForecast": 398.43,
+      "dailyElePriceAct": 289.85,
+      "realTimeElePriceForecast": 216.08,
+      "realTimeElePriceAct": 220
+    },
+    {
+      "date": "2025-03-10",
+      "time": "00:15",
+      "dailyElePriceForecast": 396,
+      "dailyElePriceAct": 275.29,
+      "realTimeElePriceForecast": 215,
+      "realTimeElePriceAct": 230
+    },
+    {
+      "date": "2025-03-10",
+      "time": "00:30",
+      "dailyElePriceForecast": 383.16,
+      "dailyElePriceAct": 272.04,
+      "realTimeElePriceForecast": 215,
+      "realTimeElePriceAct": 230
+    },
+    {
+      "date": "2025-03-10",
+      "time": "00:45",
+      "dailyElePriceForecast": 398.4,
+      "dailyElePriceAct": 262.75,
+      "realTimeElePriceForecast": 215,
+      "realTimeElePriceAct": 230
+    },
+    {
+      "date": "2025-03-10",
+      "time": "01:00",
+      "dailyElePriceForecast": 386.15,
+      "dailyElePriceAct": 261.47,
+      "realTimeElePriceForecast": 214,
+      "realTimeElePriceAct": 230
+    },
+    {
+      "date": "2025-03-10",
+      "time": "01:15",
+      "dailyElePriceForecast": 398.4,
+      "dailyElePriceAct": 252.71,
+      "realTimeElePriceForecast": 210,
+      "realTimeElePriceAct": 230
+    },
+    {
+      "date": "2025-03-10",
+      "time": "01:30",
+      "dailyElePriceForecast": 398.4,
+      "dailyElePriceAct": 238.52,
+      "realTimeElePriceForecast": 210,
+      "realTimeElePriceAct": 225
+    },
+    {
+      "date": "2025-03-10",
+      "time": "01:45",
+      "dailyElePriceForecast": 398.4,
+      "dailyElePriceAct": 235.03,
+      "realTimeElePriceForecast": 205,
+      "realTimeElePriceAct": 220
+    },
+    {
+      "date": "2025-03-10",
+      "time": "02:00",
+      "dailyElePriceForecast": 398.4,
+      "dailyElePriceAct": 231.07,
+      "realTimeElePriceForecast": 200,
+      "realTimeElePriceAct": 220
+    },
+    {
+      "date": "2025-03-10",
+      "time": "02:15",
+      "dailyElePriceForecast": 396,
+      "dailyElePriceAct": 230.11,
+      "realTimeElePriceForecast": 170,
+      "realTimeElePriceAct": 215
+    },
+    {
+      "date": "2025-03-10",
+      "time": "02:30",
+      "dailyElePriceForecast": 396,
+      "dailyElePriceAct": 224.24,
+      "realTimeElePriceForecast": 150,
+      "realTimeElePriceAct": 214
+    },
+    {
+      "date": "2025-03-10",
+      "time": "02:45",
+      "dailyElePriceForecast": 387.2,
+      "dailyElePriceAct": 228.46,
+      "realTimeElePriceForecast": 135,
+      "realTimeElePriceAct": 214
+    },
+    {
+      "date": "2025-03-10",
+      "time": "03:00",
+      "dailyElePriceForecast": 396,
+      "dailyElePriceAct": 220,
+      "realTimeElePriceForecast": 105,
+      "realTimeElePriceAct": 210
+    },
+    {
+      "date": "2025-03-10",
+      "time": "03:15",
+      "dailyElePriceForecast": 386.81,
+      "dailyElePriceAct": 224.2,
+      "realTimeElePriceForecast": 10,
+      "realTimeElePriceAct": 214
+    },
+    {
+      "date": "2025-03-10",
+      "time": "03:30",
+      "dailyElePriceForecast": 395,
+      "dailyElePriceAct": 220,
+      "realTimeElePriceForecast": 10,
+      "realTimeElePriceAct": 214
+    },
+    {
+      "date": "2025-03-10",
+      "time": "03:45",
+      "dailyElePriceForecast": 395,
+      "dailyElePriceAct": 220,
+      "realTimeElePriceForecast": 108,
+      "realTimeElePriceAct": 215
+    },
+    {
+      "date": "2025-03-10",
+      "time": "04:00",
+      "dailyElePriceForecast": 390.67,
+      "dailyElePriceAct": 220,
+      "realTimeElePriceForecast": 138,
+      "realTimeElePriceAct": 215
+    },
+    {
+      "date": "2025-03-10",
+      "time": "04:15",
+      "dailyElePriceForecast": 390.67,
+      "dailyElePriceAct": 220,
+      "realTimeElePriceForecast": 165,
+      "realTimeElePriceAct": 220
+    },
+    {
+      "date": "2025-03-10",
+      "time": "04:30",
+      "dailyElePriceForecast": 390.67,
+      "dailyElePriceAct": 222.09,
+      "realTimeElePriceForecast": 200,
+      "realTimeElePriceAct": 220
+    },
+    {
+      "date": "2025-03-10",
+      "time": "04:45",
+      "dailyElePriceForecast": 396,
+      "dailyElePriceAct": 226.33,
+      "realTimeElePriceForecast": 206,
+      "realTimeElePriceAct": 230
+    },
+    {
+      "date": "2025-03-10",
+      "time": "05:00",
+      "dailyElePriceForecast": 398.4,
+      "dailyElePriceAct": 224.23,
+      "realTimeElePriceForecast": 214,
+      "realTimeElePriceAct": 230
+    },
+    {
+      "date": "2025-03-10",
+      "time": "05:15",
+      "dailyElePriceForecast": 400,
+      "dailyElePriceAct": 226.38,
+      "realTimeElePriceForecast": 215,
+      "realTimeElePriceAct": 230
+    },
+    {
+      "date": "2025-03-10",
+      "time": "05:30",
+      "dailyElePriceForecast": 400,
+      "dailyElePriceAct": 231.6,
+      "realTimeElePriceForecast": 215.36,
+      "realTimeElePriceAct": 250
+    },
+    {
+      "date": "2025-03-10",
+      "time": "05:45",
+      "dailyElePriceForecast": 400,
+      "dailyElePriceAct": 235.79,
+      "realTimeElePriceForecast": 215.36,
+      "realTimeElePriceAct": 261.93
+    },
+    {
+      "date": "2025-03-10",
+      "time": "06:00",
+      "dailyElePriceForecast": 400,
+      "dailyElePriceAct": 243.17,
+      "realTimeElePriceForecast": 215.36,
+      "realTimeElePriceAct": 286.63
+    },
+    {
+      "date": "2025-03-10",
+      "time": "06:15",
+      "dailyElePriceForecast": 396.8,
+      "dailyElePriceAct": 242.77,
+      "realTimeElePriceForecast": 215.36,
+      "realTimeElePriceAct": 283.07
+    },
+    {
+      "date": "2025-03-10",
+      "time": "06:30",
+      "dailyElePriceForecast": 390,
+      "dailyElePriceAct": 230.98,
+      "realTimeElePriceForecast": 215.36,
+      "realTimeElePriceAct": 278.11
+    },
+    {
+      "date": "2025-03-10",
+      "time": "06:45",
+      "dailyElePriceForecast": 380,
+      "dailyElePriceAct": 224.63,
+      "realTimeElePriceForecast": 215.36,
+      "realTimeElePriceAct": 272.15
+    },
+    {
+      "date": "2025-03-10",
+      "time": "07:00",
+      "dailyElePriceForecast": 380,
+      "dailyElePriceAct": 220,
+      "realTimeElePriceForecast": 215.36,
+      "realTimeElePriceAct": 265
+    },
+    {
+      "date": "2025-03-10",
+      "time": "07:15",
+      "dailyElePriceForecast": 363.66,
+      "dailyElePriceAct": 220.67,
+      "realTimeElePriceForecast": 215.36,
+      "realTimeElePriceAct": 264
+    },
+    {
+      "date": "2025-03-10",
+      "time": "07:30",
+      "dailyElePriceForecast": 350.36,
+      "dailyElePriceAct": 215.62,
+      "realTimeElePriceForecast": 215,
+      "realTimeElePriceAct": 250
+    },
+    {
+      "date": "2025-03-10",
+      "time": "07:45",
+      "dailyElePriceForecast": 340,
+      "dailyElePriceAct": 214,
+      "realTimeElePriceForecast": 205,
+      "realTimeElePriceAct": 240
+    },
+    {
+      "date": "2025-03-10",
+      "time": "08:00",
+      "dailyElePriceForecast": 300,
+      "dailyElePriceAct": 150,
+      "realTimeElePriceForecast": 168,
+      "realTimeElePriceAct": 230
+    },
+    {
+      "date": "2025-03-10",
+      "time": "08:15",
+      "dailyElePriceForecast": 300,
+      "dailyElePriceAct": 3.11,
+      "realTimeElePriceForecast": 10,
+      "realTimeElePriceAct": 230
+    },
+    {
+      "date": "2025-03-10",
+      "time": "08:30",
+      "dailyElePriceForecast": 265,
+      "dailyElePriceAct": 0,
+      "realTimeElePriceForecast": 0,
+      "realTimeElePriceAct": 230
+    },
+    {
+      "date": "2025-03-10",
+      "time": "08:45",
+      "dailyElePriceForecast": 259,
+      "dailyElePriceAct": 0,
+      "realTimeElePriceForecast": 0,
+      "realTimeElePriceAct": 220
+    },
+    {
+      "date": "2025-03-10",
+      "time": "09:00",
+      "dailyElePriceForecast": 240,
+      "dailyElePriceAct": 0,
+      "realTimeElePriceForecast": 0,
+      "realTimeElePriceAct": 214
+    },
+    {
+      "date": "2025-03-10",
+      "time": "09:15",
+      "dailyElePriceForecast": 240,
+      "dailyElePriceAct": 0,
+      "realTimeElePriceForecast": 0,
+      "realTimeElePriceAct": 205
+    },
+    {
+      "date": "2025-03-10",
+      "time": "09:30",
+      "dailyElePriceForecast": 225,
+      "dailyElePriceAct": 0,
+      "realTimeElePriceForecast": 0,
+      "realTimeElePriceAct": 205
+    },
+    {
+      "date": "2025-03-10",
+      "time": "09:45",
+      "dailyElePriceForecast": 225,
+      "dailyElePriceAct": 0,
+      "realTimeElePriceForecast": 0,
+      "realTimeElePriceAct": 205.36
+    },
+    {
+      "date": "2025-03-10",
+      "time": "10:00",
+      "dailyElePriceForecast": 220,
+      "dailyElePriceAct": 0,
+      "realTimeElePriceForecast": 0,
+      "realTimeElePriceAct": 199
+    },
+    {
+      "date": "2025-03-10",
+      "time": "10:15",
+      "dailyElePriceForecast": 215.36,
+      "dailyElePriceAct": 0,
+      "realTimeElePriceForecast": 0,
+      "realTimeElePriceAct": 199
+    },
+    {
+      "date": "2025-03-10",
+      "time": "10:30",
+      "dailyElePriceForecast": 215,
+      "dailyElePriceAct": 0,
+      "realTimeElePriceForecast": 0,
+      "realTimeElePriceAct": 165
+    },
+    {
+      "date": "2025-03-10",
+      "time": "10:45",
+      "dailyElePriceForecast": 220,
+      "dailyElePriceAct": 0,
+      "realTimeElePriceForecast": 0,
+      "realTimeElePriceAct": 205.36
+    },
+    {
+      "date": "2025-03-10",
+      "time": "11:00",
+      "dailyElePriceForecast": 205,
+      "dailyElePriceAct": 0,
+      "realTimeElePriceForecast": 0,
+      "realTimeElePriceAct": 199
+    },
+    {
+      "date": "2025-03-10",
+      "time": "11:15",
+      "dailyElePriceForecast": 121,
+      "dailyElePriceAct": 0,
+      "realTimeElePriceForecast": 0,
+      "realTimeElePriceAct": 180
+    },
+    {
+      "date": "2025-03-10",
+      "time": "11:30",
+      "dailyElePriceForecast": 2.21,
+      "dailyElePriceAct": 0,
+      "realTimeElePriceForecast": 0,
+      "realTimeElePriceAct": 10
+    },
+    {
+      "date": "2025-03-10",
+      "time": "11:45",
+      "dailyElePriceForecast": 1,
+      "dailyElePriceAct": 0,
+      "realTimeElePriceForecast": 0,
+      "realTimeElePriceAct": 0.22
+    },
+    {
+      "date": "2025-03-10",
+      "time": "12:00",
+      "dailyElePriceForecast": 1,
+      "dailyElePriceAct": 0,
+      "realTimeElePriceForecast": 0,
+      "realTimeElePriceAct": 0.22
+    },
+    {
+      "date": "2025-03-10",
+      "time": "12:15",
+      "dailyElePriceForecast": 0.02,
+      "dailyElePriceAct": 0,
+      "realTimeElePriceForecast": 0,
+      "realTimeElePriceAct": 0
+    },
+    {
+      "date": "2025-03-10",
+      "time": "12:30",
+      "dailyElePriceForecast": 0,
+      "dailyElePriceAct": 0,
+      "realTimeElePriceForecast": 0,
+      "realTimeElePriceAct": 0
+    },
+    {
+      "date": "2025-03-10",
+      "time": "12:45",
+      "dailyElePriceForecast": 0,
+      "dailyElePriceAct": 0,
+      "realTimeElePriceForecast": 0,
+      "realTimeElePriceAct": 0
+    },
+    {
+      "date": "2025-03-10",
+      "time": "13:00",
+      "dailyElePriceForecast": 0,
+      "dailyElePriceAct": 0,
+      "realTimeElePriceForecast": 0,
+      "realTimeElePriceAct": 0
+    },
+    {
+      "date": "2025-03-10",
+      "time": "13:15",
+      "dailyElePriceForecast": 0,
+      "dailyElePriceAct": 0,
+      "realTimeElePriceForecast": 0,
+      "realTimeElePriceAct": 0
+    },
+    {
+      "date": "2025-03-10",
+      "time": "13:30",
+      "dailyElePriceForecast": 0,
+      "dailyElePriceAct": 0,
+      "realTimeElePriceForecast": 0,
+      "realTimeElePriceAct": 10
+    },
+    {
+      "date": "2025-03-10",
+      "time": "13:45",
+      "dailyElePriceForecast": 0,
+      "dailyElePriceAct": 0,
+      "realTimeElePriceForecast": 0,
+      "realTimeElePriceAct": 168
+    },
+    {
+      "date": "2025-03-10",
+      "time": "14:00",
+      "dailyElePriceForecast": 1,
+      "dailyElePriceAct": 0,
+      "realTimeElePriceForecast": 0,
+      "realTimeElePriceAct": 200
+    },
+    {
+      "date": "2025-03-10",
+      "time": "14:15",
+      "dailyElePriceForecast": 1,
+      "dailyElePriceAct": 0,
+      "realTimeElePriceForecast": 0,
+      "realTimeElePriceAct": 210.72
+    },
+    {
+      "date": "2025-03-10",
+      "time": "14:30",
+      "dailyElePriceForecast": 106,
+      "dailyElePriceAct": 0,
+      "realTimeElePriceForecast": 0,
+      "realTimeElePriceAct": 220
+    },
+    {
+      "date": "2025-03-10",
+      "time": "14:45",
+      "dailyElePriceForecast": 214,
+      "dailyElePriceAct": 0,
+      "realTimeElePriceForecast": 0,
+      "realTimeElePriceAct": 230
+    },
+    {
+      "date": "2025-03-10",
+      "time": "15:00",
+      "dailyElePriceForecast": 210,
+      "dailyElePriceAct": 0,
+      "realTimeElePriceForecast": 0,
+      "realTimeElePriceAct": 230
+    },
+    {
+      "date": "2025-03-10",
+      "time": "15:15",
+      "dailyElePriceForecast": 220,
+      "dailyElePriceAct": 0,
+      "realTimeElePriceForecast": 0,
+      "realTimeElePriceAct": 240
+    },
+    {
+      "date": "2025-03-10",
+      "time": "15:30",
+      "dailyElePriceForecast": 220,
+      "dailyElePriceAct": 10,
+      "realTimeElePriceForecast": 200,
+      "realTimeElePriceAct": 260
+    },
+    {
+      "date": "2025-03-10",
+      "time": "15:45",
+      "dailyElePriceForecast": 240,
+      "dailyElePriceAct": 214,
+      "realTimeElePriceForecast": 215,
+      "realTimeElePriceAct": 296
+    },
+    {
+      "date": "2025-03-10",
+      "time": "16:00",
+      "dailyElePriceForecast": 240,
+      "dailyElePriceAct": 199.08,
+      "realTimeElePriceForecast": 215,
+      "realTimeElePriceAct": 310.65
+    },
+    {
+      "date": "2025-03-10",
+      "time": "16:15",
+      "dailyElePriceForecast": 293.21,
+      "dailyElePriceAct": 220,
+      "realTimeElePriceForecast": 230,
+      "realTimeElePriceAct": 357.35
+    },
+    {
+      "date": "2025-03-10",
+      "time": "16:30",
+      "dailyElePriceForecast": 326.38,
+      "dailyElePriceAct": 227,
+      "realTimeElePriceForecast": 260,
+      "realTimeElePriceAct": 380
+    },
+    {
+      "date": "2025-03-10",
+      "time": "16:45",
+      "dailyElePriceForecast": 355.23,
+      "dailyElePriceAct": 243,
+      "realTimeElePriceForecast": 325,
+      "realTimeElePriceAct": 393.9
+    },
+    {
+      "date": "2025-03-10",
+      "time": "17:00",
+      "dailyElePriceForecast": 380,
+      "dailyElePriceAct": 300,
+      "realTimeElePriceForecast": 375,
+      "realTimeElePriceAct": 394.76
+    },
+    {
+      "date": "2025-03-10",
+      "time": "17:15",
+      "dailyElePriceForecast": 396,
+      "dailyElePriceAct": 340,
+      "realTimeElePriceForecast": 389,
+      "realTimeElePriceAct": 398.4
+    },
+    {
+      "date": "2025-03-10",
+      "time": "17:30",
+      "dailyElePriceForecast": 400.69,
+      "dailyElePriceAct": 365,
+      "realTimeElePriceForecast": 395,
+      "realTimeElePriceAct": 401.4
+    },
+    {
+      "date": "2025-03-10",
+      "time": "17:45",
+      "dailyElePriceForecast": 423,
+      "dailyElePriceAct": 380,
+      "realTimeElePriceForecast": 398.4,
+      "realTimeElePriceAct": 410
+    },
+    {
+      "date": "2025-03-10",
+      "time": "18:00",
+      "dailyElePriceForecast": 500,
+      "dailyElePriceAct": 393.15,
+      "realTimeElePriceForecast": 400,
+      "realTimeElePriceAct": 425
+    },
+    {
+      "date": "2025-03-10",
+      "time": "18:15",
+      "dailyElePriceForecast": 800,
+      "dailyElePriceAct": 397.44,
+      "realTimeElePriceForecast": 403.31,
+      "realTimeElePriceAct": 440
+    },
+    {
+      "date": "2025-03-10",
+      "time": "18:30",
+      "dailyElePriceForecast": 800,
+      "dailyElePriceAct": 399.05,
+      "realTimeElePriceForecast": 415,
+      "realTimeElePriceAct": 450
+    },
+    {
+      "date": "2025-03-10",
+      "time": "18:45",
+      "dailyElePriceForecast": 800,
+      "dailyElePriceAct": 402.24,
+      "realTimeElePriceForecast": 420,
+      "realTimeElePriceAct": 470
+    },
+    {
+      "date": "2025-03-10",
+      "time": "19:00",
+      "dailyElePriceForecast": 800,
+      "dailyElePriceAct": 408.67,
+      "realTimeElePriceForecast": 425,
+      "realTimeElePriceAct": 499
+    },
+    {
+      "date": "2025-03-10",
+      "time": "19:15",
+      "dailyElePriceForecast": 800,
+      "dailyElePriceAct": 411.74,
+      "realTimeElePriceForecast": 435,
+      "realTimeElePriceAct": 500
+    },
+    {
+      "date": "2025-03-10",
+      "time": "19:30",
+      "dailyElePriceForecast": 800,
+      "dailyElePriceAct": 413.26,
+      "realTimeElePriceForecast": 432,
+      "realTimeElePriceAct": 500
+    },
+    {
+      "date": "2025-03-10",
+      "time": "19:45",
+      "dailyElePriceForecast": 800,
+      "dailyElePriceAct": 411.13,
+      "realTimeElePriceForecast": 414.06,
+      "realTimeElePriceAct": 475
+    },
+    {
+      "date": "2025-03-10",
+      "time": "20:00",
+      "dailyElePriceForecast": 800,
+      "dailyElePriceAct": 405.56,
+      "realTimeElePriceForecast": 415,
+      "realTimeElePriceAct": 445
+    },
+    {
+      "date": "2025-03-10",
+      "time": "20:15",
+      "dailyElePriceForecast": 697.94,
+      "dailyElePriceAct": 401.14,
+      "realTimeElePriceForecast": 401.09,
+      "realTimeElePriceAct": 429
+    },
+    {
+      "date": "2025-03-10",
+      "time": "20:30",
+      "dailyElePriceForecast": 603.6,
+      "dailyElePriceAct": 395.14,
+      "realTimeElePriceForecast": 398.4,
+      "realTimeElePriceAct": 420
+    },
+    {
+      "date": "2025-03-10",
+      "time": "20:45",
+      "dailyElePriceForecast": 588.52,
+      "dailyElePriceAct": 390,
+      "realTimeElePriceForecast": 398.4,
+      "realTimeElePriceAct": 401.15
+    },
+    {
+      "date": "2025-03-10",
+      "time": "21:00",
+      "dailyElePriceForecast": 578.93,
+      "dailyElePriceAct": 385,
+      "realTimeElePriceForecast": 398,
+      "realTimeElePriceAct": 400
+    },
+    {
+      "date": "2025-03-10",
+      "time": "21:15",
+      "dailyElePriceForecast": 514.68,
+      "dailyElePriceAct": 380,
+      "realTimeElePriceForecast": 395,
+      "realTimeElePriceAct": 400
+    },
+    {
+      "date": "2025-03-10",
+      "time": "21:30",
+      "dailyElePriceForecast": 492.74,
+      "dailyElePriceAct": 375,
+      "realTimeElePriceForecast": 389,
+      "realTimeElePriceAct": 386.45
+    },
+    {
+      "date": "2025-03-10",
+      "time": "21:45",
+      "dailyElePriceForecast": 413.85,
+      "dailyElePriceAct": 370,
+      "realTimeElePriceForecast": 385,
+      "realTimeElePriceAct": 390.69
+    },
+    {
+      "date": "2025-03-10",
+      "time": "22:00",
+      "dailyElePriceForecast": 358.18,
+      "dailyElePriceAct": 330,
+      "realTimeElePriceForecast": 351,
+      "realTimeElePriceAct": 373.75
+    },
+    {
+      "date": "2025-03-10",
+      "time": "22:15",
+      "dailyElePriceForecast": 337.02,
+      "dailyElePriceAct": 305,
+      "realTimeElePriceForecast": 340,
+      "realTimeElePriceAct": 355.5
+    },
+    {
+      "date": "2025-03-10",
+      "time": "22:30",
+      "dailyElePriceForecast": 323.9,
+      "dailyElePriceAct": 280,
+      "realTimeElePriceForecast": 305.4,
+      "realTimeElePriceAct": 345.48
+    },
+    {
+      "date": "2025-03-10",
+      "time": "22:45",
+      "dailyElePriceForecast": 313.66,
+      "dailyElePriceAct": 245,
+      "realTimeElePriceForecast": 289.33,
+      "realTimeElePriceAct": 340.89
+    },
+    {
+      "date": "2025-03-10",
+      "time": "23:00",
+      "dailyElePriceForecast": 305.51,
+      "dailyElePriceAct": 240,
+      "realTimeElePriceForecast": 255.15,
+      "realTimeElePriceAct": 324.35
+    },
+    {
+      "date": "2025-03-10",
+      "time": "23:15",
+      "dailyElePriceForecast": 300.58,
+      "dailyElePriceAct": 230,
+      "realTimeElePriceForecast": 240,
+      "realTimeElePriceAct": 318.1
+    },
+    {
+      "date": "2025-03-10",
+      "time": "23:30",
+      "dailyElePriceForecast": 287.53,
+      "dailyElePriceAct": 230,
+      "realTimeElePriceForecast": 230,
+      "realTimeElePriceAct": 313.22
+    },
+    {
+      "date": "2025-03-10",
+      "time": "23:45",
+      "dailyElePriceForecast": 281.31,
+      "dailyElePriceAct": 220,
+      "realTimeElePriceForecast": 230,
+      "realTimeElePriceAct": 302.81
+    }
+  ]
+}
