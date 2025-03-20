@@ -1,0 +1,10 @@
+{
+  "maxVoltage": 28,
+  "maxVoltagePos": 52,
+  "minVoltage": 3000,
+  "minVoltagePos": 20,
+  "maxTemp": 28,
+  "maxTempPos": 52,
+  "minTemp": 3000,
+  "minTempPos": 20
+}
