@@ -1,0 +1,31 @@
+{
+  "alarmFrequency": 136,
+  "riskDuration": 168,
+  "riskDetectionRate": 99.96,
+  "data": [
+    {
+      "alarmName": "热失控预警",
+      "level": 1,
+      "stationName": "特神储能站",
+      "belongDevice": "BMS1",
+      "alarmTime": "2024年12月24日 18:12:36",
+      "status": "待处理"
+    },
+    {
+        "alarmName": "一致性问题",
+        "level": 2,
+        "stationName": "微粒高尔夫",
+        "belongDevice": "BMS1",
+        "alarmTime": "2024年12月24日 18:12:36",
+        "status": "待处理"
+      },
+      {
+        "alarmName": "衰减过快",
+        "level": 3,
+        "stationName": "维和场站",
+        "belongDevice": "BMS1",
+        "alarmTime": "2024年12月24日 18:12:36",
+        "status": "待处理"
+      }
+  ]
+}
