@@ -1,0 +1,634 @@
+{
+  "Sheet1": [
+    {
+      "time": "04/01/2024",
+      "soh": 100,
+      "sohForecast": 100,
+      "sohPromise": 100
+    },
+    {
+      "time": "05/01/2024",
+      "soh": 99.67,
+      "sohForecast": 99.67,
+      "sohPromise": 99.67
+    },
+    {
+      "time": "06/01/2024",
+      "soh": 99.34,
+      "sohForecast": 99.34,
+      "sohPromise": 99.34
+    },
+    {
+      "time": "07/01/2024",
+      "soh": 99.01,
+      "sohForecast": 99.01,
+      "sohPromise": 99.01
+    },
+    {
+      "time": "08/01/2024",
+      "soh": 98.68,
+      "sohForecast": 98.68,
+      "sohPromise": 98.68
+    },
+    {
+      "time": "09/01/2024",
+      "soh": 98.35,
+      "sohForecast": 98.35,
+      "sohPromise": 98.35
+    },
+    {
+      "time": "10/01/2024",
+      "soh": 98.02,
+      "sohForecast": 98.02,
+      "sohPromise": 98.02
+    },
+    {
+      "time": "11/01/2024",
+      "soh": 97.69,
+      "sohForecast": 97.69,
+      "sohPromise": 97.69
+    },
+    {
+      "time": "12/01/2024",
+      "soh": 97.36,
+      "sohForecast": 97.36,
+      "sohPromise": 97.36
+    },
+    {
+      "time": "01/01/2025",
+      "soh": 97.03,
+      "sohForecast": 97.03,
+      "sohPromise": 97.03
+    },
+    {
+      "time": "02/01/2025",
+      "soh": 96.7,
+      "sohForecast": 96.7,
+      "sohPromise": 96.7
+    },
+    {
+      "time": "03/01/2025",
+      "soh": 96.37,
+      "sohForecast": 96.37,
+      "sohPromise": 96.37
+    },
+    {
+      "time": "04/01/2025",
+      "soh": 96.04,
+      "sohForecast": 96.04,
+      "sohPromise": 96.04
+    },
+    {
+      "time": "05/01/2025",
+      "soh": 95.87,
+      "sohForecast": 95.87,
+      "sohPromise": 95.87
+    },
+    {
+      "time": "06/01/2025",
+      "soh": 95.7,
+      "sohForecast": 95.7,
+      "sohPromise": 95.7
+    },
+    {
+      "time": "07/01/2025",
+      "soh": 95.53,
+      "sohForecast": 95.53,
+      "sohPromise": 95.53
+    },
+    {
+      "time": "08/01/2025",
+      "soh": 95.36,
+      "sohForecast": 95.36,
+      "sohPromise": 95.36
+    },
+    {
+      "time": "09/01/2025",
+      "soh": 95.19,
+      "sohForecast": 95.19,
+      "sohPromise": 95.19
+    },
+    {
+      "time": "10/01/2025",
+      "soh": 95.02,
+      "sohForecast": 95.02,
+      "sohPromise": 95.02
+    },
+    {
+      "time": "11/01/2025",
+      "soh": 94.85,
+      "sohForecast": 94.85,
+      "sohPromise": 94.85
+    },
+    {
+      "time": "12/01/2025",
+      "soh": 94.68,
+      "sohForecast": 94.68,
+      "sohPromise": 94.68
+    },
+    {
+      "time": "01/01/2026",
+      "soh": 94.51,
+      "sohForecast": 94.51,
+      "sohPromise": 94.51
+    },
+    {
+      "time": "02/01/2026",
+      "soh": 94.34,
+      "sohForecast": 94.34,
+      "sohPromise": 94.34
+    },
+    {
+      "time": "03/01/2026",
+      "soh": 94.17,
+      "sohForecast": 94.17,
+      "sohPromise": 94.17
+    },
+    {
+      "time": "04/01/2026",
+      "soh": 94,
+      "sohForecast": 94,
+      "sohPromise": 94
+    },
+    {
+      "time": "05/01/2026",
+      "soh": 93.83,
+      "sohForecast": 93.83,
+      "sohPromise": 93.83
+    },
+    {
+      "time": "06/01/2026",
+      "soh": 93.66,
+      "sohForecast": 93.66,
+      "sohPromise": 93.66
+    },
+    {
+      "time": "07/01/2026",
+      "soh": 93.49,
+      "sohForecast": 93.49,
+      "sohPromise": 93.49
+    },
+    {
+      "time": "08/01/2026",
+      "soh": 93.32,
+      "sohForecast": 93.32,
+      "sohPromise": 93.32
+    },
+    {
+      "time": "09/01/2026",
+      "soh": 93.15,
+      "sohForecast": 93.15,
+      "sohPromise": 93.15
+    },
+    {
+      "time": "10/01/2026",
+      "soh": 92.98,
+      "sohForecast": 92.98,
+      "sohPromise": 92.98
+    },
+    {
+      "time": "11/01/2026",
+      "soh": 92.81,
+      "sohForecast": 92.81,
+      "sohPromise": 92.81
+    },
+    {
+      "time": "12/01/2026",
+      "soh": 92.64,
+      "sohForecast": 92.64,
+      "sohPromise": 92.64
+    },
+    {
+      "time": "01/01/2027",
+      "soh": 92.47,
+      "sohForecast": 92.47,
+      "sohPromise": 92.47
+    },
+    {
+      "time": "02/01/2027",
+      "soh": 92.3,
+      "sohForecast": 92.3,
+      "sohPromise": 92.3
+    },
+    {
+      "time": "03/01/2027",
+      "soh": 92.13,
+      "sohForecast": 92.13,
+      "sohPromise": 92.13
+    },
+    {
+      "time": "04/01/2027",
+      "soh": 91.96,
+      "sohForecast": 91.96,
+      "sohPromise": 91.96
+    },
+    {
+      "time": "05/01/2027",
+      "soh": 91.79,
+      "sohForecast": 91.79,
+      "sohPromise": 91.79
+    },
+    {
+      "time": "06/01/2027",
+      "soh": 91.62,
+      "sohForecast": 91.62,
+      "sohPromise": 91.62
+    },
+    {
+      "time": "07/01/2027",
+      "soh": 91.45,
+      "sohForecast": 91.45,
+      "sohPromise": 91.45
+    },
+    {
+      "time": "08/01/2027",
+      "soh": 91.28,
+      "sohForecast": 91.28,
+      "sohPromise": 91.28
+    },
+    {
+      "time": "09/01/2027",
+      "soh": 91.11,
+      "sohForecast": 91.11,
+      "sohPromise": 91.11
+    },
+    {
+      "time": "10/01/2027",
+      "soh": 90.94,
+      "sohForecast": 90.94,
+      "sohPromise": 90.94
+    },
+    {
+      "time": "11/01/2027",
+      "soh": 90.77,
+      "sohForecast": 90.77,
+      "sohPromise": 90.77
+    },
+    {
+      "time": "12/01/2027",
+      "soh": 90.6,
+      "sohForecast": 90.6,
+      "sohPromise": 90.6
+    },
+    {
+      "time": "01/01/2028",
+      "soh": 90.43,
+      "sohForecast": 90.43,
+      "sohPromise": 90.43
+    },
+    {
+      "time": "02/01/2028",
+      "soh": 90.26,
+      "sohForecast": 90.26,
+      "sohPromise": 90.26
+    },
+    {
+      "time": "03/01/2028",
+      "soh": 90.09,
+      "sohForecast": 90.09,
+      "sohPromise": 90.09
+    },
+    {
+      "time": "04/01/2028",
+      "soh": 89.92,
+      "sohForecast": 89.92,
+      "sohPromise": 89.92
+    },
+    {
+      "time": "05/01/2028",
+      "soh": 89.75,
+      "sohForecast": 89.75,
+      "sohPromise": 89.75
+    },
+    {
+      "time": "06/01/2028",
+      "soh": 89.58,
+      "sohForecast": 89.58,
+      "sohPromise": 89.58
+    },
+    {
+      "time": "07/01/2028",
+      "soh": 89.41,
+      "sohForecast": 89.41,
+      "sohPromise": 89.41
+    },
+    {
+      "time": "08/01/2028",
+      "soh": 89.24,
+      "sohForecast": 89.24,
+      "sohPromise": 89.24
+    },
+    {
+      "time": "09/01/2028",
+      "soh": 89.07,
+      "sohForecast": 89.07,
+      "sohPromise": 89.07
+    },
+    {
+      "time": "10/01/2028",
+      "soh": 88.9,
+      "sohForecast": 88.9,
+      "sohPromise": 88.9
+    },
+    {
+      "time": "11/01/2028",
+      "soh": 88.73,
+      "sohForecast": 88.73,
+      "sohPromise": 88.73
+    },
+    {
+      "time": "12/01/2028",
+      "soh": 88.56,
+      "sohForecast": 88.56,
+      "sohPromise": 88.56
+    },
+    {
+      "time": "01/01/2029",
+      "soh": 88.39,
+      "sohForecast": 88.39,
+      "sohPromise": 88.39
+    },
+    {
+      "time": "02/01/2029",
+      "soh": 88.22,
+      "sohForecast": 88.22,
+      "sohPromise": 88.22
+    },
+    {
+      "time": "03/01/2029",
+      "soh": 88.05,
+      "sohForecast": 88.05,
+      "sohPromise": 88.05
+    },
+    {
+      "time": "04/01/2029",
+      "soh": 87.88,
+      "sohForecast": 87.88,
+      "sohPromise": 87.88
+    },
+    {
+      "time": "05/01/2029",
+      "soh": 87.71,
+      "sohForecast": 87.71,
+      "sohPromise": 87.71
+    },
+    {
+      "time": "06/01/2029",
+      "soh": 87.54,
+      "sohForecast": 87.54,
+      "sohPromise": 87.54
+    },
+    {
+      "time": "07/01/2029",
+      "soh": 87.37,
+      "sohForecast": 87.37,
+      "sohPromise": 87.37
+    },
+    {
+      "time": "08/01/2029",
+      "soh": 87.2,
+      "sohForecast": 87.2,
+      "sohPromise": 87.2
+    },
+    {
+      "time": "09/01/2029",
+      "soh": 87.03,
+      "sohForecast": 87.03,
+      "sohPromise": 87.03
+    },
+    {
+      "time": "10/01/2029",
+      "soh": 86.86,
+      "sohForecast": 86.86,
+      "sohPromise": 86.86
+    },
+    {
+      "time": "11/01/2029",
+      "soh": 86.69,
+      "sohForecast": 86.69,
+      "sohPromise": 86.69
+    },
+    {
+      "time": "12/01/2029",
+      "soh": 86.52,
+      "sohForecast": 86.52,
+      "sohPromise": 86.52
+    },
+    {
+      "time": "01/01/2030",
+      "soh": 86.35,
+      "sohForecast": 86.35,
+      "sohPromise": 86.35
+    },
+    {
+      "time": "02/01/2030",
+      "soh": 86.18,
+      "sohForecast": 86.18,
+      "sohPromise": 86.18
+    },
+    {
+      "time": "03/01/2030",
+      "soh": 86.01,
+      "sohForecast": 86.01,
+      "sohPromise": 86.01
+    },
+    {
+      "time": "04/01/2030",
+      "soh": 85.84,
+      "sohForecast": 85.84,
+      "sohPromise": 85.84
+    },
+    {
+      "time": "05/01/2030",
+      "soh": 85.67,
+      "sohForecast": 85.67,
+      "sohPromise": 85.67
+    },
+    {
+      "time": "06/01/2030",
+      "soh": 85.5,
+      "sohForecast": 85.5,
+      "sohPromise": 85.5
+    },
+    {
+      "time": "07/01/2030",
+      "soh": 85.33,
+      "sohForecast": 85.33,
+      "sohPromise": 85.33
+    },
+    {
+      "time": "08/01/2030",
+      "soh": 85.16,
+      "sohForecast": 85.16,
+      "sohPromise": 85.16
+    },
+    {
+      "time": "09/01/2030",
+      "soh": 84.99,
+      "sohForecast": 84.99,
+      "sohPromise": 84.99
+    },
+    {
+      "time": "10/01/2030",
+      "soh": 84.82,
+      "sohForecast": 84.82,
+      "sohPromise": 84.82
+    },
+    {
+      "time": "11/01/2030",
+      "soh": 84.65,
+      "sohForecast": 84.65,
+      "sohPromise": 84.65
+    },
+    {
+      "time": "12/01/2030",
+      "soh": 84.48,
+      "sohForecast": 84.48,
+      "sohPromise": 84.48
+    },
+    {
+      "time": "01/01/2031",
+      "soh": 84.31,
+      "sohForecast": 84.31,
+      "sohPromise": 84.31
+    },
+    {
+      "time": "02/01/2031",
+      "soh": 84.14,
+      "sohForecast": 84.14,
+      "sohPromise": 84.14
+    },
+    {
+      "time": "03/01/2031",
+      "soh": 83.97,
+      "sohForecast": 83.97,
+      "sohPromise": 83.97
+    },
+    {
+      "time": "04/01/2031",
+      "soh": 83.8,
+      "sohForecast": 83.8,
+      "sohPromise": 83.8
+    },
+    {
+      "time": "05/01/2031",
+      "soh": 83.63,
+      "sohForecast": 83.63,
+      "sohPromise": 83.63
+    },
+    {
+      "time": "06/01/2031",
+      "soh": 83.46,
+      "sohForecast": 83.46,
+      "sohPromise": 83.46
+    },
+    {
+      "time": "07/01/2031",
+      "soh": 83.29,
+      "sohForecast": 83.29,
+      "sohPromise": 83.29
+    },
+    {
+      "time": "08/01/2031",
+      "soh": 83.12,
+      "sohForecast": 83.12,
+      "sohPromise": 83.12
+    },
+    {
+      "time": "09/01/2031",
+      "soh": 82.95,
+      "sohForecast": 82.95,
+      "sohPromise": 82.95
+    },
+    {
+      "time": "10/01/2031",
+      "soh": 82.78,
+      "sohForecast": 82.78,
+      "sohPromise": 82.78
+    },
+    {
+      "time": "11/01/2031",
+      "soh": 82.61,
+      "sohForecast": 82.61,
+      "sohPromise": 82.61
+    },
+    {
+      "time": "12/01/2031",
+      "soh": 82.44,
+      "sohForecast": 82.44,
+      "sohPromise": 82.44
+    },
+    {
+      "time": "01/01/2032",
+      "soh": 82.27,
+      "sohForecast": 82.27,
+      "sohPromise": 82.27
+    },
+    {
+      "time": "02/01/2032",
+      "soh": 82.1,
+      "sohForecast": 82.1,
+      "sohPromise": 82.1
+    },
+    {
+      "time": "03/01/2032",
+      "soh": 81.93,
+      "sohForecast": 81.93,
+      "sohPromise": 81.93
+    },
+    {
+      "time": "04/01/2032",
+      "soh": 81.76,
+      "sohForecast": 81.76,
+      "sohPromise": 81.76
+    },
+    {
+      "time": "05/01/2032",
+      "soh": 81.59,
+      "sohForecast": 81.59,
+      "sohPromise": 81.59
+    },
+    {
+      "time": "06/01/2032",
+      "soh": 81.42,
+      "sohForecast": 81.42,
+      "sohPromise": 81.42
+    },
+    {
+      "time": "07/01/2032",
+      "soh": 81.25,
+      "sohForecast": 81.25,
+      "sohPromise": 81.25
+    },
+    {
+      "time": "08/01/2032",
+      "soh": 81.08,
+      "sohForecast": 81.08,
+      "sohPromise": 81.08
+    },
+    {
+      "time": "09/01/2032",
+      "soh": 80.91,
+      "sohForecast": 80.91,
+      "sohPromise": 80.91
+    },
+    {
+      "time": "10/01/2032",
+      "soh": 80.74,
+      "sohForecast": 80.74,
+      "sohPromise": 80.74
+    },
+    {
+      "time": "11/01/2032",
+      "soh": 80.57,
+      "sohForecast": 80.57,
+      "sohPromise": 80.57
+    },
+    {
+      "time": "12/01/2032",
+      "soh": 80.4,
+      "sohForecast": 80.4,
+      "sohPromise": 80.4
+    }
+  ]
+}
