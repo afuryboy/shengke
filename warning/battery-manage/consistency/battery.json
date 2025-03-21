@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "label": "1#并网点",
+      "id": "1",
+      "children": [
+        {
+          "label": "1#电池簇",
+          "id": "1-1",
+          "warningLevel": 1,
+          "warning": ""
+        },
+        {
+          "label": "2#电池簇",
+          "id": "1-2",
+          "warningLevel": 2,
+          "warning": "2#Pack一致性出现问题"
+        },
+        {
+          "label": "3#电池簇",
+          "id": "1-3"
+        },
+        {
+          "label": "4#电池簇",
+          "id": "1-4",
+          "warningLevel": 3,
+          "warning": "4#Pack一致性出现问题"
+        },
+        {
+          "label": "5#电池簇",
+          "id": "1-5",
+          "warningLevel": 3,
+          "warning": "5#Pack一致性出现问题"
+        }
+      ]
+    }
+  ]
+}
