@@ -5,6 +5,7 @@
   "data": [
     {
       "alarmName": "热失控预警",
+      "alarmType": 1,
       "level": 1,
       "stationName": "特神储能站",
       "belongDevice": "BMS1",
@@ -13,6 +14,7 @@
     },
     {
         "alarmName": "一致性问题",
+        "alarmType": 2,
         "level": 2,
         "stationName": "微粒高尔夫",
         "belongDevice": "BMS1",
@@ -21,6 +23,7 @@
       },
       {
         "alarmName": "衰减过快",
+        "alarmType": 3,
         "level": 3,
         "stationName": "维和场站",
         "belongDevice": "BMS1",
