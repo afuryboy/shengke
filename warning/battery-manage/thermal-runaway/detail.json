@@ -1,0 +1,17 @@
+{
+  "maxVoltage": 3250,
+  "maxVoltagePos": 65,
+  "minVoltage": 2945,
+  "minVoltagePos": 8,
+  "maxTemp": 31.4,
+  "maxTempPos": 65,
+  "minTemp": 28.2,
+  "minTempPos": 8,
+  "problem": "热失控概率81.06%",
+  "updateTime": "2024年2月1日 17:24:12",
+  "emergency": [
+    "1. [自动执行] 切断PACK-07回路并启动独立消防舱",
+    "2. [人工确认] 降低PCS输出功率至50%",
+    "3. [建议] 疏散半径5米"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "soh": {
+    "start": 100,
+    "end": 80,
+    "current": 95
+  },
+  "cycle": {
+    "start": 0,
+    "end": 6000,
+    "current": 1213,
+    "rate": 30
+  },
+  "problem": "容量衰减过快",
+  "updateTime": "2024年2月1日 17:24:12",
+  "emergency": ["限制放电深度,设置SOC下限从0%提升至10%"],
+  "root": ["更换异常电芯"]
+}

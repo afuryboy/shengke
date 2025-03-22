@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "pack": "1#PACK",
+      "promoteCapacity": 4000,
+      "beforeSOC": 90,
+      "afterSOC": 94,
+      "expectedTime": 24
+    },
+    {
+      "pack": "2#PACK",
+      "promoteCapacity": 4000,
+      "beforeSOC": 90,
+      "afterSOC": 94,
+      "expectedTime": 24
+    },
+    {
+      "pack": "3#PACK",
+      "promoteCapacity": 4000,
+      "beforeSOC": 90,
+      "afterSOC": 94,
+      "expectedTime": 24
+    },
+    {
+      "pack": "4#PACK",
+      "promoteCapacity": 4000,
+      "beforeSOC": 90,
+      "afterSOC": 94,
+      "expectedTime": 24
+    },
+    {
+      "pack": "5#PACK",
+      "promoteCapacity": 4000,
+      "beforeSOC": 90,
+      "afterSOC": 94,
+      "expectedTime": 24
+    }
+  ]
+}

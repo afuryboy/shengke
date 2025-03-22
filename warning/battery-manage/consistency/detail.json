@@ -1,0 +1,25 @@
+{
+  "cluster": {
+    "capacity": "200 kWh",
+    "currentCapacity": "187 kWh",
+    "packString": "1P16S",
+    "packNum": "4个",
+    "cellMaterial": "磷酸铁锂",
+    "mAh": "280Ah",
+    "equalizingCurrent": 1,
+    "singleTime": 15,
+    "quantity": 2,
+    "capacityBefore": "187kWh",
+    "capacityAfter": "194kWh",
+    "dailyPromoteIncome": "1.82元",
+    "expectedTime": "24 min"
+  },
+
+  "problem": "1#Pack一致性出现问题",
+  "updateTime": "2024年2月1日 17:24:12",
+  "emergency": ["立即降载至50%功率运行"],
+  "root": [
+    "1. 更换老化电芯",
+    "2.优化连接件设计，更换为镀银铜排（原为铝排），扭矩校准至25N·m"
+  ]
+}
