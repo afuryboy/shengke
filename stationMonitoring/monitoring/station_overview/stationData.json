@@ -1,0 +1,16 @@
+{
+  "msg": "操作成功",
+  "code": 200,
+  "data": {
+    "stationId": "TEST_ST241113512460001",
+    "status": 2,
+    "stationName": "维和电站",
+    "ratedCap": "2",
+    "ratedCapUnit": "MWh",
+    "ratedPower": "1",
+    "ratedPowerUnit": "MW",
+    "stationTopoName": "",
+    "stationTopoFile": ""
+  },
+  "timestamp": "1742737750719"
+}

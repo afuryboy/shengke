@@ -1,0 +1,13 @@
+{
+    "msg": "操作成功",
+    "code": 200,
+    "data": {
+      "stationId": "TEST_ST241113512460001",
+      "stationName": "维和电站",
+      "soc": 96.5,
+      "soh": 73.3,
+      "power": 594.4,
+      "dumpEnergy": 1474
+    },
+    "timestamp": "1742738125601"
+  }
