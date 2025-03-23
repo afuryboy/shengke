@@ -1,0 +1,20 @@
+{
+  "msg": "操作成功",
+  "code": 200,
+  "data": {
+    "stationId": "TEST_ST241113512460001",
+    "stationName": "12",
+    "equipmentId": null,
+    "equipmentName": null,
+    "status": 0,
+    "daySumPrice": "1663.6",
+    "sumPrice": "130.8",
+    "dayOverPower": "3595",
+    "overPower": "262.5",
+    "dayDownPower": "3130",
+    "downPower": "227.8",
+    "productiveness": "86.41",
+    "avgCount": 1.78
+  },
+  "timestamp": "1742738465729"
+}
