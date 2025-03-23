@@ -1,0 +1,66 @@
+{
+    "msg": "操作成功",
+    "code": 200,
+    "data": {
+      "currentWeeklyChargeSum": "27560",
+      "currentWeeklyDischargeSum": "23750",
+      "currentWeeklyIncome": "16970.6",
+      "preWeeklyIncome": "14922.4",
+      "currentWeeklyEfficiency": "86.18",
+      "preWeeklyEfficiency": "85.44",
+      "plan": null,
+      "analyse": null,
+      "weeklyDetailList": [
+        {
+          "date": "2025-03-17 周一",
+          "charge": "3595",
+          "discharge": "3130",
+          "loopCount": "1.78",
+          "income": "1663.6"
+        },
+        {
+          "date": "2025-03-18 周二",
+          "charge": "3595",
+          "discharge": "3130",
+          "loopCount": "1.78",
+          "income": "1663.6"
+        },
+        {
+          "date": "2025-03-19 周三",
+          "charge": "3595",
+          "discharge": "3130",
+          "loopCount": "1.78",
+          "income": "1663.6"
+        },
+        {
+          "date": "2025-03-20 周四",
+          "charge": "3595",
+          "discharge": "3130",
+          "loopCount": "1.78",
+          "income": "1663.6"
+        },
+        {
+          "date": "2025-03-21 周五",
+          "charge": "3595",
+          "discharge": "3130",
+          "loopCount": "1.78",
+          "income": "1663.6"
+        },
+        {
+          "date": "2025-03-22 周六",
+          "charge": "-",
+          "discharge": "-",
+          "loopCount": "-",
+          "income": "-"
+        },
+        {
+          "date": "2025-03-23 周日",
+          "charge": "3595",
+          "discharge": "3130",
+          "loopCount": "1.78",
+          "income": "1663.6"
+        }
+      ]
+    },
+    "timestamp": "1742741032312"
+  }
