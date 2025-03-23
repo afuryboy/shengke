@@ -1,0 +1,44 @@
+{
+    "msg": "操作成功",
+    "code": 200,
+    "data": {
+      "heads": [],
+      "values": [
+        {
+          "stationName": null,
+          "stationId": null,
+          "statisticDate": "2025年03月24日",
+          "chargePeak": null,
+          "chargeHump": null,
+          "chargePlain": null,
+          "chargeValley": null,
+          "chargeDeepValley": null,
+          "dischargePeak": null,
+          "dischargeHump": null,
+          "dischargePlain": null,
+          "dischargeValley": null,
+          "dischargeDeepValley": null,
+          "income": null,
+          "efficiency": null
+        },
+        {
+          "stationName": "合计",
+          "stationId": null,
+          "statisticDate": "合计",
+          "chargePeak": null,
+          "chargeHump": null,
+          "chargePlain": null,
+          "chargeValley": null,
+          "chargeDeepValley": null,
+          "dischargePeak": null,
+          "dischargeHump": null,
+          "dischargePlain": null,
+          "dischargeValley": null,
+          "dischargeDeepValley": null,
+          "income": null,
+          "efficiency": null
+        }
+      ]
+    },
+    "timestamp": "1742761734836"
+  }
