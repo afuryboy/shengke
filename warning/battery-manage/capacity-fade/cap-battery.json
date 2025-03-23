@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "label": "1#并网点",
+      "id": "1",
+      "children": [
+        {
+          "label": "1#电池簇",
+          "id": "1-1",
+          "warningLevel": 1,
+          "warning": ""
+        },
+        {
+          "label": "2#电池簇",
+          "id": "1-2",
+          "warningLevel": 1,
+          "warning": ""
+        },
+        {
+          "label": "3#电池簇",
+          "id": "1-3",
+          "warningLevel": 1,
+          "warning": ""
+        },
+        {
+          "label": "4#电池簇",
+          "id": "1-4",
+          "warningLevel": 3,
+          "warning": "容量衰减过快"
+        }
+      ]
+    },
+    {
+      "label": "2#并网点",
+      "id": "2",
+      "children": [
+        {
+          "label": "1#电池簇",
+          "id": "2-1",
+          "warningLevel": 1,
+          "warning": ""
+        },
+        {
+          "label": "2#电池簇",
+          "id": "2-2",
+          "warningLevel": 1,
+          "warning": ""
+        },
+        {
+          "label": "3#电池簇",
+          "id": "2-3",
+          "warningLevel": 1,
+          "warning": ""
+        },
+        {
+          "label": "4#电池簇",
+          "id": "2-4",
+          "warningLevel": 3,
+          "warning": "容量衰减过快"
+        }
+      ]
+    }
+  ]
+}
