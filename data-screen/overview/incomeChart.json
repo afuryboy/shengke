@@ -1,0 +1,84 @@
+{
+    "msg": "操作成功",
+    "code": 200,
+    "data": [
+      {
+        "stationId": null,
+        "stationName": null,
+        "status": null,
+        "dateString": "2025-03-17",
+        "soc": null,
+        "stationOutP": null,
+        "sumPrice": "16636",
+        "overPower": "35950",
+        "downPower": "31300"
+      },
+      {
+        "stationId": null,
+        "stationName": null,
+        "status": null,
+        "dateString": "2025-03-18",
+        "soc": null,
+        "stationOutP": null,
+        "sumPrice": "16636",
+        "overPower": "35950",
+        "downPower": "31300"
+      },
+      {
+        "stationId": null,
+        "stationName": null,
+        "status": null,
+        "dateString": "2025-03-19",
+        "soc": null,
+        "stationOutP": null,
+        "sumPrice": "16636",
+        "overPower": "35950",
+        "downPower": "31300"
+      },
+      {
+        "stationId": null,
+        "stationName": null,
+        "status": null,
+        "dateString": "2025-03-20",
+        "soc": null,
+        "stationOutP": null,
+        "sumPrice": "16636",
+        "overPower": "35950",
+        "downPower": "31300"
+      },
+      {
+        "stationId": null,
+        "stationName": null,
+        "status": null,
+        "dateString": "2025-03-21",
+        "soc": null,
+        "stationOutP": null,
+        "sumPrice": "16636",
+        "overPower": "35950",
+        "downPower": "31300"
+      },
+      {
+        "stationId": null,
+        "stationName": null,
+        "status": null,
+        "dateString": "2025-03-22",
+        "soc": null,
+        "stationOutP": null,
+        "sumPrice": "16636",
+        "overPower": "35950",
+        "downPower": "31300"
+      },
+      {
+        "stationId": null,
+        "stationName": null,
+        "status": null,
+        "dateString": "2025-03-23",
+        "soc": null,
+        "stationOutP": null,
+        "sumPrice": "16636",
+        "overPower": "35950",
+        "downPower": "31300"
+      }
+    ],
+    "timestamp": "1742735956839"
+  }
