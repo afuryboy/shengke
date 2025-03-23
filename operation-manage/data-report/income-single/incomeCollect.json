@@ -1,0 +1,238 @@
+{
+  "msg": "操作成功",
+  "code": 200,
+  "data": {
+    "heads": [
+      {
+        "field": "chargePeak",
+        "name": "尖"
+      },
+      {
+        "field": "dischargePeak",
+        "name": "尖"
+      },
+      {
+        "field": "chargeHump",
+        "name": "峰"
+      },
+      {
+        "field": "dischargeHump",
+        "name": "峰"
+      },
+      {
+        "field": "chargePlain",
+        "name": "平"
+      },
+      {
+        "field": "dischargePlain",
+        "name": "平"
+      },
+      {
+        "field": "chargeValley",
+        "name": "谷"
+      },
+      {
+        "field": "dischargeValley",
+        "name": "谷"
+      },
+      {
+        "field": "chargeDeepValley",
+        "name": "深谷"
+      },
+      {
+        "field": "dischargeDeepValley",
+        "name": "深谷"
+      }
+    ],
+    "values": [
+      {
+        "stationName": "维和电站",
+        "stationId": null,
+        "statisticDate": null,
+        "chargePeak": "20.8",
+        "chargeHump": "126.8",
+        "chargePlain": "2962.7",
+        "chargeValley": "2509.2",
+        "chargeDeepValley": null,
+        "dischargePeak": "9825.3",
+        "dischargeHump": "3066.1",
+        "dischargePlain": "0",
+        "dischargeValley": "0",
+        "dischargeDeepValley": null,
+        "income": "7272",
+        "efficiency": null
+      },
+      {
+        "stationName": "微粒高尔夫",
+        "stationId": null,
+        "statisticDate": null,
+        "chargePeak": "20.8",
+        "chargeHump": "126.8",
+        "chargePlain": "2962.7",
+        "chargeValley": "2509.2",
+        "chargeDeepValley": null,
+        "dischargePeak": "9825.3",
+        "dischargeHump": "3066.1",
+        "dischargePlain": "0",
+        "dischargeValley": "0",
+        "dischargeDeepValley": null,
+        "income": "7272",
+        "efficiency": null
+      },
+      {
+        "stationName": "特神储能站",
+        "stationId": null,
+        "statisticDate": null,
+        "chargePeak": "20.8",
+        "chargeHump": "126.8",
+        "chargePlain": "2962.7",
+        "chargeValley": "2509.2",
+        "chargeDeepValley": null,
+        "dischargePeak": "9825.3",
+        "dischargeHump": "3066.1",
+        "dischargePlain": "0",
+        "dischargeValley": "0",
+        "dischargeDeepValley": null,
+        "income": "7272",
+        "efficiency": null
+      },
+      {
+        "stationName": "东莞庭丰",
+        "stationId": null,
+        "statisticDate": null,
+        "chargePeak": "20.8",
+        "chargeHump": "126.8",
+        "chargePlain": "2962.7",
+        "chargeValley": "2509.2",
+        "chargeDeepValley": null,
+        "dischargePeak": "9825.3",
+        "dischargeHump": "3066.1",
+        "dischargePlain": "0",
+        "dischargeValley": "0",
+        "dischargeDeepValley": null,
+        "income": "7272",
+        "efficiency": null
+      },
+      {
+        "stationName": "意境花园",
+        "stationId": null,
+        "statisticDate": null,
+        "chargePeak": "20.8",
+        "chargeHump": "126.8",
+        "chargePlain": "2962.7",
+        "chargeValley": "2509.2",
+        "chargeDeepValley": null,
+        "dischargePeak": "9825.3",
+        "dischargeHump": "3066.1",
+        "dischargePlain": "0",
+        "dischargeValley": "0",
+        "dischargeDeepValley": null,
+        "income": "7272",
+        "efficiency": null
+      },
+      {
+        "stationName": "二十二",
+        "stationId": null,
+        "statisticDate": null,
+        "chargePeak": "20.8",
+        "chargeHump": "126.8",
+        "chargePlain": "2962.7",
+        "chargeValley": "2509.2",
+        "chargeDeepValley": null,
+        "dischargePeak": "9825.3",
+        "dischargeHump": "3066.1",
+        "dischargePlain": "0",
+        "dischargeValley": "0",
+        "dischargeDeepValley": null,
+        "income": "7272",
+        "efficiency": null
+      },
+      {
+        "stationName": "东莞居天时雨",
+        "stationId": null,
+        "statisticDate": null,
+        "chargePeak": "20.8",
+        "chargeHump": "126.8",
+        "chargePlain": "2962.7",
+        "chargeValley": "2509.2",
+        "chargeDeepValley": null,
+        "dischargePeak": "9825.3",
+        "dischargeHump": "3066.1",
+        "dischargePlain": "0",
+        "dischargeValley": "0",
+        "dischargeDeepValley": null,
+        "income": "7272",
+        "efficiency": null
+      },
+      {
+        "stationName": "东莞翔国",
+        "stationId": null,
+        "statisticDate": null,
+        "chargePeak": "20.8",
+        "chargeHump": "126.8",
+        "chargePlain": "2962.7",
+        "chargeValley": "2509.2",
+        "chargeDeepValley": null,
+        "dischargePeak": "9825.3",
+        "dischargeHump": "3066.1",
+        "dischargePlain": "0",
+        "dischargeValley": "0",
+        "dischargeDeepValley": null,
+        "income": "7272",
+        "efficiency": null
+      },
+      {
+        "stationName": "炬华微网",
+        "stationId": null,
+        "statisticDate": null,
+        "chargePeak": "20.8",
+        "chargeHump": "126.8",
+        "chargePlain": "2962.7",
+        "chargeValley": "2509.2",
+        "chargeDeepValley": null,
+        "dischargePeak": "9825.3",
+        "dischargeHump": "3066.1",
+        "dischargePlain": "0",
+        "dischargeValley": "0",
+        "dischargeDeepValley": null,
+        "income": "7272",
+        "efficiency": null
+      },
+      {
+        "stationName": "龙威家具",
+        "stationId": null,
+        "statisticDate": null,
+        "chargePeak": "20.8",
+        "chargeHump": "126.8",
+        "chargePlain": "2962.7",
+        "chargeValley": "2509.2",
+        "chargeDeepValley": null,
+        "dischargePeak": "9825.3",
+        "dischargeHump": "3066.1",
+        "dischargePlain": "0",
+        "dischargeValley": "0",
+        "dischargeDeepValley": null,
+        "income": "7272",
+        "efficiency": null
+      },
+      {
+        "stationName": "合计",
+        "stationId": null,
+        "statisticDate": "合计",
+        "chargePeak": "208",
+        "chargeHump": "1268",
+        "chargePlain": "29627",
+        "chargeValley": "25092",
+        "chargeDeepValley": null,
+        "dischargePeak": "98253",
+        "dischargeHump": "30661",
+        "dischargePlain": "0",
+        "dischargeValley": "0",
+        "dischargeDeepValley": null,
+        "income": "7272",
+        "efficiency": null
+      }
+    ]
+  },
+  "timestamp": "1742743183747"
+}
