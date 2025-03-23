@@ -1,0 +1,12 @@
+{
+  "msg": "操作成功",
+  "code": 200,
+  "data": {
+    "chargePowerTotal": "28.55",
+    "dischargePowerTotal": "24.5",
+    "installedCapacity": "20",
+    "stationNum": 10,
+    "ackPower": "36.8",
+    "incomeTotal": "1308"
+  }
+}
