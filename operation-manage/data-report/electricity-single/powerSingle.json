@@ -1,44 +1,85 @@
 {
-    "msg": "操作成功",
-    "code": 200,
-    "data": {
-      "heads": [],
-      "values": [
-        {
-          "stationName": null,
-          "stationId": null,
-          "statisticDate": "2025年03月24日",
-          "chargePeak": null,
-          "chargeHump": null,
-          "chargePlain": null,
-          "chargeValley": null,
-          "chargeDeepValley": null,
-          "dischargePeak": null,
-          "dischargeHump": null,
-          "dischargePlain": null,
-          "dischargeValley": null,
-          "dischargeDeepValley": null,
-          "income": null,
-          "efficiency": null
-        },
-        {
-          "stationName": "合计",
-          "stationId": null,
-          "statisticDate": "合计",
-          "chargePeak": null,
-          "chargeHump": null,
-          "chargePlain": null,
-          "chargeValley": null,
-          "chargeDeepValley": null,
-          "dischargePeak": null,
-          "dischargeHump": null,
-          "dischargePlain": null,
-          "dischargeValley": null,
-          "dischargeDeepValley": null,
-          "income": null,
-          "efficiency": null
-        }
-      ]
-    },
-    "timestamp": "1742761734836"
-  }
+  "msg": "操作成功",
+  "code": 200,
+  "data": {
+    "heads": [
+      {
+        "field": "chargePeak",
+        "name": "尖"
+      },
+      {
+        "field": "dischargePeak",
+        "name": "尖"
+      },
+      {
+        "field": "chargeHump",
+        "name": "峰"
+      },
+      {
+        "field": "dischargeHump",
+        "name": "峰"
+      },
+      {
+        "field": "chargePlain",
+        "name": "平"
+      },
+      {
+        "field": "dischargePlain",
+        "name": "平"
+      },
+      {
+        "field": "chargeValley",
+        "name": "谷"
+      },
+      {
+        "field": "dischargeValley",
+        "name": "谷"
+      },
+      {
+        "field": "chargeDeepValley",
+        "name": "深谷"
+      },
+      {
+        "field": "dischargeDeepValley",
+        "name": "深谷"
+      }
+    ],
+    "values": [
+      {
+        "stationName": null,
+        "stationId": null,
+        "statisticDate": "2025年03月24日",
+        "chargePeak": null,
+        "chargeHump": null,
+        "chargePlain": null,
+        "chargeValley": null,
+        "chargeDeepValley": null,
+        "dischargePeak": null,
+        "dischargeHump": null,
+        "dischargePlain": null,
+        "dischargeValley": null,
+        "dischargeDeepValley": null,
+        "income": null,
+        "efficiency": null
+      },
+      {
+        "stationName": "合计",
+        "stationId": null,
+        "statisticDate": "合计",
+        "chargePeak": null,
+        "chargeHump": null,
+        "chargePlain": null,
+        "chargeValley": null,
+        "chargeDeepValley": null,
+        "dischargePeak": null,
+        "dischargeHump": null,
+        "dischargePlain": null,
+        "dischargeValley": null,
+        "dischargeDeepValley": null,
+        "income": null,
+        "efficiency": null
+      }
+    ]
+  },
+  "timestamp": "1742761734836"
+}
