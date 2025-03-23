@@ -1,0 +1,10 @@
+{
+  "msg": "操作成功",
+  "code": 200,
+  "data": {
+    "operationCount": 10,
+    "constructionCount": 0,
+    "operationRatedCap": "20",
+    "constructionRatedCap": "0"
+  }
+}
