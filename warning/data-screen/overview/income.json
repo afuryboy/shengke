@@ -1,0 +1,14 @@
+{
+  "msg": "操作成功",
+  "code": 200,
+  "data": {
+    "dayIncome": "16636",
+    "dayIncomeUnit": "元",
+    "monthIncome": "724957",
+    "monthIncomeUnit": "元",
+    "yearIncome": "870",
+    "yearIncomeUnit": "万元",
+    "totalIncome": "1308",
+    "totalIncomeUnit": "万元"
+  }
+}
