@@ -1,0 +1,266 @@
+{
+  "msg": "操作成功",
+  "code": 200,
+  "data": {
+    "chargePowerTotal": "28.55",
+    "dischargePowerTotal": "24.5",
+    "installedCapacity": "20",
+    "stationNum": 10,
+    "ackPower": "36.8",
+    "incomeTotal": "1308",
+    "excludeRiskList": [
+      {
+        "stationName": "微粒高尔夫",
+        "handleTime": "2025-03-10 17:25:02",
+        "alarmName": "簇欠压"
+      },
+      {
+        "stationName": "微粒高尔夫",
+        "handleTime": "2025-03-10 17:23:38",
+        "alarmName": "系统SOC过低"
+      },
+      {
+        "stationName": "特神储能站",
+        "handleTime": "2025-03-10 15:44:06",
+        "alarmName": "EMS链接断开"
+      },
+      {
+        "stationName": "微粒高尔夫",
+        "handleTime": "2025-03-10 15:37:08",
+        "alarmName": "EMS链接断开"
+      },
+      {
+        "stationName": "特神储能站",
+        "handleTime": "2025-03-10 14:01:04",
+        "alarmName": "单体过压"
+      },
+      {
+        "stationName": "二十二",
+        "handleTime": "2025-03-10 16:01:03",
+        "alarmName": "单体过压"
+      },
+      {
+        "stationName": "二十二",
+        "handleTime": "2025-03-10 16:01:02",
+        "alarmName": "单体过压"
+      },
+      {
+        "stationName": "二十二",
+        "handleTime": "2025-03-10 13:40:06",
+        "alarmName": "单体过压"
+      },
+      {
+        "stationName": "二十二",
+        "handleTime": "2025-03-10 13:40:06",
+        "alarmName": "单体过压"
+      },
+      {
+        "stationName": "微粒高尔夫",
+        "handleTime": "2025-03-10 13:37:52",
+        "alarmName": "单体过压"
+      },
+      {
+        "stationName": "微粒高尔夫",
+        "handleTime": "2025-03-10 13:31:41",
+        "alarmName": "单体过压"
+      },
+      {
+        "stationName": "微粒高尔夫",
+        "handleTime": "2025-03-10 13:31:40",
+        "alarmName": "单体过压"
+      },
+      {
+        "stationName": "微粒高尔夫",
+        "handleTime": "2025-03-10 13:30:32",
+        "alarmName": "单体过压"
+      },
+      {
+        "stationName": "微粒高尔夫",
+        "handleTime": "2025-03-10 13:30:33",
+        "alarmName": "簇过压"
+      },
+      {
+        "stationName": "微粒高尔夫",
+        "handleTime": "2025-03-10 13:30:33",
+        "alarmName": "簇过压"
+      },
+      {
+        "stationName": "微粒高尔夫",
+        "handleTime": "2025-03-10 13:15:02",
+        "alarmName": "单体过压"
+      },
+      {
+        "stationName": "意境花园",
+        "handleTime": "2025-03-10 13:22:13",
+        "alarmName": "单体过压"
+      },
+      {
+        "stationName": "微粒高尔夫",
+        "handleTime": "2025-03-10 14:12:59",
+        "alarmName": "系统SOC过高"
+      },
+      {
+        "stationName": "意境花园",
+        "handleTime": "2025-03-10 14:02:22",
+        "alarmName": "组端充电过流"
+      },
+      {
+        "stationName": "微粒高尔夫",
+        "handleTime": "2025-03-10 10:18:44",
+        "alarmName": "单体温差过高"
+      },
+      {
+        "stationName": "特神储能站",
+        "handleTime": "2025-03-10 10:01:34",
+        "alarmName": "单体过压"
+      },
+      {
+        "stationName": "意境花园",
+        "handleTime": "2025-03-10 12:02:22",
+        "alarmName": "组端放电过流"
+      },
+      {
+        "stationName": "微粒高尔夫",
+        "handleTime": "2025-03-10 07:43:49",
+        "alarmName": "单体过压"
+      },
+      {
+        "stationName": "微粒高尔夫",
+        "handleTime": "2025-03-10 07:42:23",
+        "alarmName": "单体过压"
+      },
+      {
+        "stationName": "微粒高尔夫",
+        "handleTime": "2025-03-10 07:48:40",
+        "alarmName": "单体过压"
+      },
+      {
+        "stationName": "微粒高尔夫",
+        "handleTime": "2025-03-10 07:42:24",
+        "alarmName": "单体过压"
+      },
+      {
+        "stationName": "微粒高尔夫",
+        "handleTime": "2025-03-10 07:42:28",
+        "alarmName": "单体过压"
+      },
+      {
+        "stationName": "维和电站",
+        "handleTime": "2025-03-10 07:17:03",
+        "alarmName": "单体过压"
+      },
+      {
+        "stationName": "微粒高尔夫",
+        "handleTime": "2025-03-10 10:13:58",
+        "alarmName": "系统SOC过高"
+      },
+      {
+        "stationName": "意境花园",
+        "handleTime": "2025-03-10 05:27:17",
+        "alarmName": "单体过压"
+      },
+      {
+        "stationName": "二十二",
+        "handleTime": "2025-03-10 06:01:08",
+        "alarmName": "单体过压"
+      },
+      {
+        "stationName": "二十二",
+        "handleTime": "2025-03-10 06:01:07",
+        "alarmName": "单体过压"
+      },
+      {
+        "stationName": "二十二",
+        "handleTime": "2025-03-10 04:34:07",
+        "alarmName": "单体过压"
+      },
+      {
+        "stationName": "意境花园",
+        "handleTime": "2025-03-10 10:02:14",
+        "alarmName": "组端充电过流"
+      },
+      {
+        "stationName": "意境花园",
+        "handleTime": "2025-03-10 03:58:06",
+        "alarmName": "EMS链接断开"
+      },
+      {
+        "stationName": "微粒高尔夫",
+        "handleTime": "2025-03-10 07:53:34",
+        "alarmName": "单体温差过高"
+      },
+      {
+        "stationName": "微粒高尔夫",
+        "handleTime": "2025-03-10 03:03:11",
+        "alarmName": "单体温差过高"
+      },
+      {
+        "stationName": "微粒高尔夫",
+        "handleTime": "2025-03-10 01:14:51",
+        "alarmName": "系统SOC过低"
+      },
+      {
+        "stationName": "微粒高尔夫",
+        "handleTime": "2025-03-09 17:30:22",
+        "alarmName": "簇欠压"
+      },
+      {
+        "stationName": "微粒高尔夫",
+        "handleTime": "2025-03-09 17:23:00",
+        "alarmName": "簇欠压"
+      },
+      {
+        "stationName": "微粒高尔夫",
+        "handleTime": "2025-03-10 00:46:02",
+        "alarmName": "系统SOC过低"
+      },
+      {
+        "stationName": "微粒高尔夫",
+        "handleTime": "2025-03-10 00:39:48",
+        "alarmName": "系统SOC过低"
+      },
+      {
+        "stationName": "微粒高尔夫",
+        "handleTime": "2025-03-10 00:43:28",
+        "alarmName": "系统SOC过低"
+      },
+      {
+        "stationName": "微粒高尔夫",
+        "handleTime": "2025-03-09 15:35:28",
+        "alarmName": "单体温差过高"
+      },
+      {
+        "stationName": "意境花园",
+        "handleTime": "2025-03-10 04:02:14",
+        "alarmName": "组端放电过流"
+      },
+      {
+        "stationName": "二十二",
+        "handleTime": "2025-03-09 16:02:03",
+        "alarmName": "单体过压"
+      },
+      {
+        "stationName": "二十二",
+        "handleTime": "2025-03-09 16:02:04",
+        "alarmName": "单体过压"
+      },
+      {
+        "stationName": "微粒高尔夫",
+        "handleTime": "2025-03-09 13:41:48",
+        "alarmName": "单体过压"
+      },
+      {
+        "stationName": "微粒高尔夫",
+        "handleTime": "2025-03-09 13:36:58",
+        "alarmName": "单体过压"
+      },
+      {
+        "stationName": "微粒高尔夫",
+        "handleTime": "2025-03-09 13:36:53",
+        "alarmName": "单体过压"
+      }
+    ],
+
+    "excludeRiskNum": 696
+  }
+}

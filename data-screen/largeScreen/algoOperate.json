@@ -1,0 +1,20 @@
+{
+  "msg": "操作成功",
+  "code": 200,
+  "data": {
+    "incomeTotal": 0,
+
+    "nonMarketNormalIncomeTotal": 721.926,
+    "nonMarketNormalIncomeList": [320.34, 344.716, 56.87],
+
+    "nonMarketAlgoOptimizePercent": 12.81,
+    "nonMarketAlgoOperationIncomeTotal": "814.4",
+    "nonMarketAlgoOperationIncomeList": [361.37, 388.8741196, 64.24],
+
+    "marketAlgoOptimizePercent": 17.0,
+    "marketAlgoOperationIncomeTotal": 870,
+    "marketAlgoOperationIncomeList": [374.86, 422.64, 72.5],
+
+    "xAxis": ["1月", "2月", "3月"]
+  }
+}
