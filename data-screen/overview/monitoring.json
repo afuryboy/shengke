@@ -1,0 +1,86 @@
+{
+  "msg": "操作成功",
+  "code": 200,
+  "data": [
+    {
+      "stationId": 1,
+      "stationName": "维和电站",
+      "status": 2,
+      "overPower": 3595,
+      "downPower": 3130,
+      "sumPrice": 1663.6
+    },
+    {
+      "stationId": 2,
+      "stationName": "微粒高尔夫",
+      "status": 2,
+      "overPower": 3595,
+      "downPower": 3130,
+      "sumPrice": 1663.6
+    },
+    {
+      "stationId": 3,
+      "stationName": "特神储能站",
+      "status": 2,
+      "overPower": 3595,
+      "downPower": 3130,
+      "sumPrice": 1663.6
+    },
+    {
+      "stationId": 4,
+      "stationName": "东莞庭丰",
+      "status": 2,
+      "overPower": 3595,
+      "downPower": 3130,
+      "sumPrice": 1663.6
+    },
+    {
+      "stationId": 5,
+      "stationName": "意境花园",
+      "status": 2,
+      "overPower": 3595,
+      "downPower": 3130,
+      "sumPrice": 1663.6
+    },
+    {
+      "stationId": 6,
+      "stationName": "二十二",
+      "status": 2,
+      "overPower": 3595,
+      "downPower": 3130,
+      "sumPrice": 1663.6
+    },
+    {
+      "stationId": 7,
+      "stationName": "东莞居天时雨",
+      "status": 2,
+      "overPower": 3595,
+      "downPower": 3130,
+      "sumPrice": 1663.6
+    },
+    {
+      "stationId": 8,
+      "stationName": "东莞翔国",
+      "status": 2,
+      "overPower": 3595,
+      "downPower": 3130,
+      "sumPrice": 1663.6
+    },
+    {
+      "stationId": 9,
+      "stationName": "炬华微网",
+      "status": 2,
+      "overPower": 3595,
+      "downPower": 3130,
+      "sumPrice": 1663.6
+    },
+    {
+      "stationId": 10,
+      "stationName": "龙威家具",
+      "status": 2,
+      "overPower": 3595,
+      "downPower": 3130,
+      "sumPrice": 1663.6
+    }
+  ]
+}
