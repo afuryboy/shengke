@@ -1,0 +1,19 @@
+{
+  "msg": "操作成功",
+  "code": 200,
+  "data": [
+    {
+      "id": null,
+      "status": 2,
+      "stationId": "ST231115515050001",
+      "pocId": "TEST_POC241119366640001",
+      "equipmentId": "lhkcesedjcdz_poc_em_2",
+      "pocName": "1#并网点",
+      "capacity": "2",
+      "capacityUnit": "MWh",
+      "power": "1",
+      "powerUnit": "MW"
+    }
+  ],
+  "timestamp": "1742788016079"
+}

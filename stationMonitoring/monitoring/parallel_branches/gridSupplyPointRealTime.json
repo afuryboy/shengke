@@ -1,0 +1,14 @@
+{
+  "msg": "操作成功",
+  "code": 200,
+  "data": [
+    {
+      "equipmentId": "esedj_cab_em",
+      "soc": "73.30",
+      "soh": "96.50%",
+      "power": "594.4",
+      "dumpEnergy": "1474"
+    }
+  ],
+  "timestamp": "1742788811898"
+}

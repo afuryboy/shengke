@@ -1,0 +1,22 @@
+{
+  "msg": "操作成功",
+  "code": 200,
+  "data": [
+    {
+      "stationId": "ST231115515050001",
+      "stationName": null,
+      "equipmentId": "esedj_cab_em",
+      "equipmentName": "1#并网点",
+      "status": 1,
+      "daySumPrice": "1663.6",
+      "sumPrice": "130.8",
+      "dayOverPower": "3595",
+      "overPower": "262.5",
+      "dayDownPower": "3130",
+      "downPower": "227.8",
+      "productiveness": "86.41",
+      "avgCount": "1.78"
+    }
+  ],
+  "timestamp": "1742789128226"
+}
