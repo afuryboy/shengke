@@ -1,54 +1,63 @@
 {
   "data": [
     {
+      "time": "00:00:00",
       "getEle": 100,
       "charge": 250,
       "discharge": 1500,
       "rate": 86
     },
     {
+      "time": "00:01:00",
       "getEle": 100,
       "charge": 250,
       "discharge": 1550,
       "rate": 86
     },
     {
+      "time": "00:02:00",
       "getEle": 100,
       "charge": 250,
       "discharge": 1600,
       "rate": 88
     },
     {
+      "time": "00:03:00",
       "getEle": 100,
       "charge": 250,
       "discharge": 1400,
       "rate": 89
     },
     {
+      "time": "00:04:00",
       "getEle": 100,
       "charge": 250,
       "discharge": 1500,
       "rate": 85
     },
     {
+      "time": "00:05:00",
       "getEle": 100,
       "charge": 250,
       "discharge": 1550,
       "rate": 88
     },
     {
+      "time": "00:06:00",
       "getEle": 100,
       "charge": 250,
       "discharge": 1600,
       "rate": 88
     },
     {
+      "time": "00:07:00",
       "getEle": 100,
       "charge": 250,
       "discharge": 1400,
       "rate": 93
     },
     {
+      "time": "00:08:00",
       "getEle": 100,
       "charge": 250,
       "discharge": 1400,
