@@ -1,0 +1,79 @@
+{
+  "msg": "操作成功",
+  "code": 200,
+  "data": {
+    "startDate": "2024-07-01",
+    "endDate": "2024-07-31",
+    "dayCount": "31",
+    "sumIncome": "72495.7",
+    "firstPartyIncome": null,
+    "secondPartyIncome": null,
+    "powerLossRate": "0.00",
+    "incomeList": [
+      {
+        "timeType": "尖",
+        "chargePutType": "充电",
+        "power": "5",
+        "price": "1.38076449",
+        "income": "0.00",
+        "beginPower": "1341240.00",
+        "endPower": "1341245.00"
+      },
+      {
+        "timeType": "尖",
+        "chargePutType": "放电",
+        "power": "72160",
+        "price": "1.38076449",
+        "income": "0.00",
+        "beginPower": "1134960.50",
+        "endPower": "1207120.50"
+      },
+      {
+        "timeType": "峰",
+        "chargePutType": "充电",
+        "power": "2250",
+        "price": "1.13436749",
+        "income": "0.00",
+        "beginPower": "1338995.00",
+        "endPower": "1341245.00"
+      },
+      {
+        "timeType": "峰",
+        "chargePutType": "放电",
+        "power": "31780",
+        "price": "1.13436749",
+        "income": "0.00",
+        "beginPower": "1175340.50",
+        "endPower": "1207120.50"
+      },
+      {
+        "timeType": "平",
+        "chargePutType": "充电",
+        "power": "56325",
+        "price": "0.70886549",
+        "income": "0.00",
+        "beginPower": "1284920.00",
+        "endPower": "1341245.00"
+      },
+      {
+        "timeType": "平",
+        "chargePutType": "放电",
+        "power": "130",
+        "price": "0.70886549",
+        "income": "0.00",
+        "beginPower": "1206990.50",
+        "endPower": "1207120.50"
+      },
+      {
+        "timeType": "谷",
+        "chargePutType": "充电",
+        "power": "0",
+        "price": "0.33200149",
+        "income": "0.00",
+        "beginPower": "1207120.50",
+        "endPower": "1207120.50"
+      }
+    ]
+  },
+  "timestamp": "1742814535104"
+}
