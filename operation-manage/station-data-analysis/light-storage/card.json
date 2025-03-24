@@ -1,0 +1,17 @@
+{
+  "powerGeneration": {
+    "value": "2040",
+    "selfUse": "1428",
+    "remaining": "612"
+  },
+  "powerGenerationRevenue": {
+    "value": "126.28",
+    "selfUse": "99.96",
+    "remaining": "26.32"
+  },
+  "arbitrageIncome": {
+    "value": "130",
+    "charge": "262",
+    "disCharge": "226"
+  }
+}
