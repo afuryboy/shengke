@@ -1,0 +1,16 @@
+{
+    "msg": "操作成功",
+    "code": 200,
+    "data": {
+      "calculationIncome": "52.23",
+      "calculationIncomeUnit": "万元",
+      "actualIncome": "46.33",
+      "actualIncomeUnit": "万元",
+      "aiIncome": "53.47",
+      "aiIncomeUnit": "万元",
+      "promoteIncome": "7.14",
+      "promoteIncomeUnit": "万元",
+      "promoteRate": "15.41118066"
+    },
+    "timestamp": "1742892017176"
+  }
