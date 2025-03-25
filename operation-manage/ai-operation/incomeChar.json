@@ -1,0 +1,11 @@
+{
+    "msg": "操作成功",
+    "code": 200,
+    "data": {
+      "time": [],
+      "calculationList": [],
+      "actualList": [],
+      "aiList": []
+    },
+    "timestamp": "1742893023716"
+  }
