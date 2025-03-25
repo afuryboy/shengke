@@ -1,0 +1,27 @@
+{
+  "msg": "操作成功",
+  "code": 200,
+  "data": [
+    {
+      "reportName": "充放电记录",
+      "timeDimension": null,
+      "aggregationMethod": null,
+      "lookRoleList": null,
+      "statisticNodeList": null,
+      "statisticDimension": null,
+      "indicatorList": null,
+      "templateId": "5912711"
+    },
+    {
+      "reportName": "综合报表",
+      "timeDimension": null,
+      "aggregationMethod": null,
+      "lookRoleList": null,
+      "statisticNodeList": null,
+      "statisticDimension": null,
+      "indicatorList": null,
+      "templateId": "5912712"
+    }
+  ],
+  "timestamp": "1742871749300"
+}
