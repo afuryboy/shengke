@@ -1,0 +1,77 @@
+{
+  "msg": "操作成功",
+  "code": 200,
+  "data": [
+    {
+      "id": "23000",
+      "value": null,
+      "stationId": "ST231115515050001",
+      "parentId": "0",
+      "equipmentId": "esedj_ac1",
+      "parentEquipmentId": null,
+      "storageType": "ax_equip",
+      "dataType": 1,
+      "rendererType": "ax_equip-main",
+      "bigdataFiled": null,
+      "displayName": "空调1",
+      "mainDisplay": true,
+      "unit": null,
+      "sortValue": 1,
+      "children": [
+        {
+          "id": "23100",
+          "value": null,
+          "stationId": "ST231115515050001",
+          "parentId": "23000",
+          "equipmentId": null,
+          "parentEquipmentId": null,
+          "storageType": "ax_equip",
+          "dataType": 1,
+          "rendererType": "ax_equip-data",
+          "bigdataFiled": null,
+          "displayName": "当前状态",
+          "mainDisplay": true,
+          "unit": null,
+          "sortValue": 1,
+          "children": [
+            {
+              "id": "23101",
+              "value": "23",
+              "stationId": "ST231115515050001",
+              "parentId": "23100",
+              "equipmentId": null,
+              "parentEquipmentId": null,
+              "storageType": "ax_equip",
+              "dataType": 3,
+              "rendererType": "normal_field",
+              "bigdataFiled": "ax_temp",
+              "displayName": "当前温度",
+              "mainDisplay": true,
+              "unit": "℃",
+              "sortValue": 1,
+              "children": []
+            },
+            {
+              "id": "23102",
+              "value": "32",
+              "stationId": "ST231115515050001",
+              "parentId": "23100",
+              "equipmentId": null,
+              "parentEquipmentId": null,
+              "storageType": "ax_equip",
+              "dataType": 3,
+              "rendererType": "normal_field",
+              "bigdataFiled": "ax_hum",
+              "displayName": "当前湿度",
+              "mainDisplay": true,
+              "unit": "%",
+              "sortValue": 2,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "timestamp": "1742996219383"
+}
