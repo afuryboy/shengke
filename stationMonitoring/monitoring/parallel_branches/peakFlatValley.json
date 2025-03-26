@@ -1,0 +1,97 @@
+{
+    "msg": "操作成功",
+    "code": 200,
+    "data": [
+      {
+        "start": "00:00",
+        "end": "08:00",
+        "startTime": "000000",
+        "endTime": "080000",
+        "startMinute": null,
+        "endMinute": null,
+        "elecPrice": 0.61,
+        "timeFrameType": 3
+      },
+      {
+        "start": "08:00",
+        "end": "10:00",
+        "startTime": "080000",
+        "endTime": "100000",
+        "startMinute": null,
+        "endMinute": null,
+        "elecPrice": 0.97,
+        "timeFrameType": 2
+      },
+      {
+        "start": "10:00",
+        "end": "11:00",
+        "startTime": "100000",
+        "endTime": "110000",
+        "startMinute": null,
+        "endMinute": null,
+        "elecPrice": 1.37,
+        "timeFrameType": 1
+      },
+      {
+        "start": "11:00",
+        "end": "12:00",
+        "startTime": "110000",
+        "endTime": "120000",
+        "startMinute": null,
+        "endMinute": null,
+        "elecPrice": 1.37,
+        "timeFrameType": 0
+      },
+      {
+        "start": "12:00",
+        "end": "14:00",
+        "startTime": "120000",
+        "endTime": "140000",
+        "startMinute": null,
+        "endMinute": null,
+        "elecPrice": 0.97,
+        "timeFrameType": 2
+      },
+      {
+        "start": "14:00",
+        "end": "15:00",
+        "startTime": "140000",
+        "endTime": "150000",
+        "startMinute": null,
+        "endMinute": null,
+        "elecPrice": 1.37,
+        "timeFrameType": 1
+      },
+      {
+        "start": "15:00",
+        "end": "17:00",
+        "startTime": "150000",
+        "endTime": "170000",
+        "startMinute": null,
+        "endMinute": null,
+        "elecPrice": 1.37,
+        "timeFrameType": 0
+      },
+      {
+        "start": "17:00",
+        "end": "19:00",
+        "startTime": "170000",
+        "endTime": "190000",
+        "startMinute": null,
+        "endMinute": null,
+        "elecPrice": 1.37,
+        "timeFrameType": 1
+      },
+      {
+        "start": "19:00",
+        "end": "24:00",
+        "startTime": "190000",
+        "endTime": "240000",
+        "startMinute": null,
+        "endMinute": null,
+        "elecPrice": 0.97,
+        "timeFrameType": 2
+      }
+    ],
+    "timestamp": "1742971336248"
+  }
