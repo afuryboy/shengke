@@ -1,0 +1,22 @@
+{
+  "msg": "操作成功",
+  "code": 200,
+  "data": [
+    {
+      "stationId": "ST231115515050001",
+      "stationName": null,
+      "equipmentId": "EID2412051714430001",
+      "equipmentName": "电池柜3",
+      "status": 0,
+      "daySumPrice": "332.72",
+      "sumPrice": "23.16",
+      "dayOverPower": "719",
+      "overPower": "52.74",
+      "dayDownPower": "626",
+      "downPower": "45.5",
+      "productiveness": "86.41",
+      "avgCount": "1.78"
+    }
+  ],
+  "timestamp": "1742980704949"
+}

@@ -1,0 +1,20 @@
+{
+  "msg": "操作成功",
+  "code": 200,
+  "data": [
+    {
+      "id": null,
+      "stationId": "ST231115515050001",
+      "cabId": "CAB241205620830001",
+      "cabName": "5#电池柜",
+      "pocId": "TEST_POC241115410570001",
+      "equipmentId": "EID2412051714430001",
+      "pocName": "1#电池柜",
+      "capacity": "400",
+      "capacityUnit": "kWh",
+      "power": "200",
+      "powerUnit": "kW"
+    }
+  ],
+  "timestamp": "1742980702976"
+}

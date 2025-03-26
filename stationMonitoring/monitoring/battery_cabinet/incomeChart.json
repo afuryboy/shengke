@@ -1,0 +1,84 @@
+{
+  "msg": "操作成功",
+  "code": 200,
+  "data": [
+    {
+      "stationId": null,
+      "stationName": null,
+      "status": null,
+      "dateString": "2025-03-20",
+      "soc": null,
+      "stationOutP": null,
+      "sumPrice": "332.72",
+      "overPower": "719",
+      "downPower": "626"
+    },
+    {
+      "stationId": null,
+      "stationName": null,
+      "status": null,
+      "dateString": "2025-03-21",
+      "soc": null,
+      "stationOutP": null,
+      "sumPrice": "332.72",
+      "overPower": "719",
+      "downPower": "626"
+    },
+    {
+      "stationId": null,
+      "stationName": null,
+      "status": null,
+      "dateString": "2025-03-22",
+      "soc": null,
+      "stationOutP": null,
+      "sumPrice": "332.72",
+      "overPower": "719",
+      "downPower": "626"
+    },
+    {
+      "stationId": null,
+      "stationName": null,
+      "status": null,
+      "dateString": "2025-03-23",
+      "soc": null,
+      "stationOutP": null,
+      "sumPrice": "332.72",
+      "overPower": "719",
+      "downPower": "626"
+    },
+    {
+      "stationId": null,
+      "stationName": null,
+      "status": null,
+      "dateString": "2025-03-24",
+      "soc": null,
+      "stationOutP": null,
+      "sumPrice": "332.72",
+      "overPower": "719",
+      "downPower": "626"
+    },
+    {
+      "stationId": null,
+      "stationName": null,
+      "status": null,
+      "dateString": "2025-03-25",
+      "soc": null,
+      "stationOutP": null,
+      "sumPrice": "332.72",
+      "overPower": "719",
+      "downPower": "626"
+    },
+    {
+      "stationId": null,
+      "stationName": null,
+      "status": null,
+      "dateString": "2025-03-26",
+      "soc": null,
+      "stationOutP": null,
+      "sumPrice": "332.72",
+      "overPower": "719",
+      "downPower": "626"
+    }
+  ],
+  "timestamp": "1742981846213"
+}
