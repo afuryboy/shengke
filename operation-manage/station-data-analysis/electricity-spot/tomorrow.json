@@ -17,7 +17,7 @@
       "dailyElePriceForecast": 398.4,
       "dailyElePriceAct": 360,
       "realTimeElePriceForecast": 300,
-      "realTimeElePriceAct": "明日实际电价应该无数据"
+      "realTimeElePriceAct": ""
     },
     {
       "time": "00:45",
