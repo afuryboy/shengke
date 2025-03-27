@@ -1,4 +1,7 @@
 {
+  "msg": "操作成功",
+  "code": 200,
+  "data": {
     "id": "53136",
     "stationId": "ST231115515050001",
     "stationName": "联合快充二十二大街充电站",
@@ -24,7 +27,7 @@
     "ratedPower": "200",
     "powerLimit": "",
     "deviceNum": 10,
-    "stationImg": "[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]",
+    "stationImg": "[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[[]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]",
     "stationTopoName": "二十二大街-拓扑图.png",
     "stationTopoFile": "https://cdn.energyplat.thinkenergy.tech/test/saas/system/2024-06-20/a6bf82074072438082ad8d66880e98ad.png",
     "stationPriceId": "4832412",
@@ -55,7 +58,7 @@
     "createByName": "对外账号",
     "createTime": 1700029807000,
     "updateBy": "11110",
-    "updateTime": 1743038452000,
+    "updateTime": 1743044092000,
     "sceneType": 3,
     "buyElectricityType": 1,
     "izHaveAggregate": 1,
@@ -63,4 +66,6 @@
     "createStationTimePhotovoltaic": 1741017600000,
     "stationStatusPhotovoltaic": null,
     "ratedPowerPhotovoltaic": 200
-  }
+  },
+  "timestamp": "1743045488636"
+}
