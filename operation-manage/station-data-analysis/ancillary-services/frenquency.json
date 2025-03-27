@@ -1,0 +1,44 @@
+{
+  "runList": [
+    {
+      "time": "16:00-16:15",
+      "bidCapacity": 966.866666666667,
+      "bidElePrice": 1.2
+    },
+    {
+      "time": "16:15-16:30",
+      "bidCapacity": 1566,
+      "bidElePrice": 1.2
+    },
+    {
+      "time": "16:30-16:45",
+      "bidCapacity": 1590,
+      "bidElePrice": 1.2
+    },
+    {
+      "time": "16:45-17:00",
+      "bidCapacity": 1416,
+      "bidElePrice": 1.2
+    },
+    {
+      "time": "17:00-17:15",
+      "bidCapacity": 1645,
+      "bidElePrice": 1.2
+    },
+    {
+      "time": "17:15-17:30",
+      "bidCapacity": 1436,
+      "bidElePrice": 1.2
+    },
+    {
+      "time": "17:30-17:45",
+      "bidCapacity": 1542,
+      "bidElePrice": 1.2
+    },
+    {
+      "time": "17:45-18:00",
+      "bidCapacity": 1542,
+      "bidElePrice": 1.2
+    }
+  ]
+}
