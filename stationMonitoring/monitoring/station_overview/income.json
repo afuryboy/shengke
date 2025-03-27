@@ -6,7 +6,7 @@
     "stationName": "12",
     "equipmentId": null,
     "equipmentName": null,
-    "status": 0,
+    "status": 2,
     "daySumPrice": "1663.6",
     "sumPrice": "130.8",
     "dayOverPower": "3595",

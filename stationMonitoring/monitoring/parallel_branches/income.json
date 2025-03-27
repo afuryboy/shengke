@@ -7,7 +7,7 @@
       "stationName": null,
       "equipmentId": "esedj_cab_em",
       "equipmentName": "1#并网点",
-      "status": 1,
+      "status": 2,
       "daySumPrice": "1663.6",
       "sumPrice": "130.8",
       "dayOverPower": "3595",

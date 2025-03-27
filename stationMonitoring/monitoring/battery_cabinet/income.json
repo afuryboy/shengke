@@ -7,7 +7,7 @@
       "stationName": null,
       "equipmentId": "EID2412051714430001",
       "equipmentName": "电池柜3",
-      "status": 0,
+      "status": 2,
       "daySumPrice": "332.72",
       "sumPrice": "23.16",
       "dayOverPower": "719",
