@@ -1,0 +1,25 @@
+{
+  "msg": "操作成功",
+  "code": 200,
+  "data": {
+    "actualSumIncome": "1663.00",
+    "aiSumIncome": "1885.34",
+    "powerLossRate": "0.00",
+    "actualIncomeList": [
+      {
+        "timeType": "尖"
+      },
+      {
+        "timeType": "峰"
+      },
+      {
+        "timeType": "平"
+      },
+      {
+        "timeType": "谷"
+      }
+    ],
+    "aiIncomeList": []
+  },
+  "timestamp": "1743143905248"
+}
