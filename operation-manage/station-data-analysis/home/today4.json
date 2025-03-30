@@ -1,6 +1,16 @@
 {
   "policyInfo": [
     {
+      "start": "12:00",
+      "end": "14:00",
+      "startTime": "120000",
+      "endTime": "140000",
+      "startMinute": null,
+      "endMinute": null,
+      "elecPrice": 0.97,
+      "timeFrameType": 2
+    },
+    {
       "start": "19:00",
       "end": "24:00",
       "startTime": "190000",
