@@ -1,10 +1,10 @@
 {
   "policyInfo": [
     {
-      "start": "08:00",
-      "end": "10:00",
-      "startTime": "080000",
-      "endTime": "100000",
+      "start": "19:00",
+      "end": "24:00",
+      "startTime": "190000",
+      "endTime": "240000",
       "startMinute": null,
       "endMinute": null,
       "elecPrice": 0.97,
