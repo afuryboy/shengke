@@ -1,0 +1,536 @@
+{
+  "inviteList": [
+    {
+      "day": "2025-03-09",
+      "type": "削峰调峰",
+      "timeRange": "11:00-12:00",
+      "capacity": 1350,
+      "deadline": "2025-03-08 11:00:00"
+    }
+  ],
+  "data": [
+    {
+      "time": "11:00",
+      "bidCapacity": 337.5,
+      "bidElePrice": 0.6,
+      "baselineLoad": 1134.87,
+      "actualEnergyOutput": 927.4,
+      "resCapacity": 207.47,
+      "forecastIncome": 99.584
+    },
+    {
+      "time": "11:15",
+      "bidCapacity": 337.5,
+      "bidElePrice": 0.6,
+      "baselineLoad": 820.03,
+      "actualEnergyOutput": 810.2,
+      "resCapacity": 9.833333333,
+      "forecastIncome": 0
+    },
+    {
+      "time": "11:30",
+      "bidCapacity": 337.5,
+      "bidElePrice": 0.6,
+      "baselineLoad": 1387.17,
+      "actualEnergyOutput": 1315.4,
+      "resCapacity": 71.76666667,
+      "forecastIncome": 0
+    },
+    {
+      "time": "11:45",
+      "bidCapacity": 337.5,
+      "bidElePrice": 0.6,
+      "baselineLoad": 1867.23,
+      "actualEnergyOutput": 1625.4,
+      "resCapacity": 241.8333333,
+      "forecastIncome": 116.08
+    }
+  ],
+
+  "runList": [
+    {
+      "time": "00:00",
+      "baselineLoad": 966.87,
+      "tomorrowLoad": 377.8
+    },
+    {
+      "time": "00:15",
+      "baselineLoad": 1244.9,
+      "tomorrowLoad": 396.2
+    },
+    {
+      "time": "00:30",
+      "baselineLoad": 1235.2,
+      "tomorrowLoad": 392.5
+    },
+    {
+      "time": "00:45",
+      "baselineLoad": 1294.03,
+      "tomorrowLoad": 415.1
+    },
+    {
+      "time": "01:00",
+      "baselineLoad": 1280.17,
+      "tomorrowLoad": 418.4
+    },
+    {
+      "time": "01:15",
+      "baselineLoad": 1264.2,
+      "tomorrowLoad": 404.6
+    },
+    {
+      "time": "01:30",
+      "baselineLoad": 1252.87,
+      "tomorrowLoad": 372.6
+    },
+    {
+      "time": "01:45",
+      "baselineLoad": 1281.83,
+      "tomorrowLoad": 380.1
+    },
+    {
+      "time": "02:00",
+      "baselineLoad": 1233.53,
+      "tomorrowLoad": 370
+    },
+    {
+      "time": "02:15",
+      "baselineLoad": 1264.17,
+      "tomorrowLoad": 391
+    },
+    {
+      "time": "02:30",
+      "baselineLoad": 1247.4,
+      "tomorrowLoad": 392.2
+    },
+    {
+      "time": "02:45",
+      "baselineLoad": 1241.93,
+      "tomorrowLoad": 360
+    },
+    {
+      "time": "03:00",
+      "baselineLoad": 1228.07,
+      "tomorrowLoad": 387.7
+    },
+    {
+      "time": "03:15",
+      "baselineLoad": 1191.13,
+      "tomorrowLoad": 368
+    },
+    {
+      "time": "03:30",
+      "baselineLoad": 1203.7,
+      "tomorrowLoad": 356.2
+    },
+    {
+      "time": "03:45",
+      "baselineLoad": 1209.17,
+      "tomorrowLoad": 368.8
+    },
+    {
+      "time": "04:00",
+      "baselineLoad": 1194.9,
+      "tomorrowLoad": 331
+    },
+    {
+      "time": "04:15",
+      "baselineLoad": 1191.93,
+      "tomorrowLoad": 344.3
+    },
+    {
+      "time": "04:30",
+      "baselineLoad": 1194.87,
+      "tomorrowLoad": 363.1
+    },
+    {
+      "time": "04:45",
+      "baselineLoad": 1183.13,
+      "tomorrowLoad": 330.6
+    },
+    {
+      "time": "05:00",
+      "baselineLoad": 1071.8,
+      "tomorrowLoad": 361.9
+    },
+    {
+      "time": "05:15",
+      "baselineLoad": 834.93,
+      "tomorrowLoad": 348
+    },
+    {
+      "time": "05:30",
+      "baselineLoad": 738.77,
+      "tomorrowLoad": 397.1
+    },
+    {
+      "time": "05:45",
+      "baselineLoad": 703.5,
+      "tomorrowLoad": 411
+    },
+    {
+      "time": "06:00",
+      "baselineLoad": 567.83,
+      "tomorrowLoad": 407.2
+    },
+    {
+      "time": "06:15",
+      "baselineLoad": 568.23,
+      "tomorrowLoad": 397.9
+    },
+    {
+      "time": "06:30",
+      "baselineLoad": 568.67,
+      "tomorrowLoad": 358.1
+    },
+    {
+      "time": "06:45",
+      "baselineLoad": 566.57,
+      "tomorrowLoad": 390.3
+    },
+    {
+      "time": "07:00",
+      "baselineLoad": 569.5,
+      "tomorrowLoad": 370.2
+    },
+    {
+      "time": "07:15",
+      "baselineLoad": 569.1,
+      "tomorrowLoad": 382
+    },
+    {
+      "time": "07:30",
+      "baselineLoad": 795.07,
+      "tomorrowLoad": 346.7
+    },
+    {
+      "time": "07:45",
+      "baselineLoad": 692.57,
+      "tomorrowLoad": 332.9
+    },
+    {
+      "time": "08:00",
+      "baselineLoad": 834.5,
+      "tomorrowLoad": 388.3
+    },
+    {
+      "time": "08:15",
+      "baselineLoad": 776.97,
+      "tomorrowLoad": 436.2
+    },
+    {
+      "time": "08:30",
+      "baselineLoad": 1257.07,
+      "tomorrowLoad": 431.2
+    },
+    {
+      "time": "08:45",
+      "baselineLoad": 1578.77,
+      "tomorrowLoad": 436.2
+    },
+    {
+      "time": "09:00",
+      "baselineLoad": 1576.23,
+      "tomorrowLoad": 407.2
+    },
+    {
+      "time": "09:15",
+      "baselineLoad": 1684.2,
+      "tomorrowLoad": 354.3
+    },
+    {
+      "time": "09:30",
+      "baselineLoad": 1732.47,
+      "tomorrowLoad": 409.2
+    },
+    {
+      "time": "09:45",
+      "baselineLoad": 1711.9,
+      "tomorrowLoad": 371.9
+    },
+    {
+      "time": "10:00",
+      "baselineLoad": 1556.5,
+      "tomorrowLoad": 426.1
+    },
+    {
+      "time": "10:15",
+      "baselineLoad": 1044.97,
+      "tomorrowLoad": 397.1
+    },
+    {
+      "time": "10:30",
+      "baselineLoad": 723.63,
+      "tomorrowLoad": 397.1
+    },
+    {
+      "time": "10:45",
+      "baselineLoad": 894.6,
+      "tomorrowLoad": 387.8
+    },
+    {
+      "time": "11:00",
+      "resCapacity": 207.47,
+      "baselineLoad": 1134.87,
+      "tomorrowLoad": 371.9
+    },
+    {
+      "time": "11:15",
+      "resCapacity": 9.83,
+      "baselineLoad": 820.03,
+      "tomorrowLoad": 402.2
+    },
+    {
+      "time": "11:30",
+      "resCapacity": 71.77,
+      "baselineLoad": 1387.17,
+      "tomorrowLoad": 678.9
+    },
+    {
+      "time": "11:45",
+      "resCapacity": 241.83,
+      "baselineLoad": 1867.23,
+      "tomorrowLoad": 639.1
+    },
+    {
+      "time": "12:00",
+      "baselineLoad": 978.17,
+      "tomorrowLoad": 654.2
+    },
+    {
+      "time": "12:15",
+      "baselineLoad": 1788.8,
+      "tomorrowLoad": 647.9
+    },
+    {
+      "time": "12:30",
+      "baselineLoad": 1826.17,
+      "tomorrowLoad": 667.5
+    },
+    {
+      "time": "12:45",
+      "baselineLoad": 1921.93,
+      "tomorrowLoad": 680.1
+    },
+    {
+      "time": "13:00",
+      "baselineLoad": 1995.8,
+      "tomorrowLoad": 674.3
+    },
+    {
+      "time": "13:15",
+      "baselineLoad": 1796.33,
+      "tomorrowLoad": 674.3
+    },
+    {
+      "time": "13:30",
+      "baselineLoad": 2748.47,
+      "tomorrowLoad": 649.9
+    },
+    {
+      "time": "13:45",
+      "baselineLoad": 2544.37,
+      "tomorrowLoad": 633.5
+    },
+    {
+      "time": "14:00",
+      "baselineLoad": 1819.03,
+      "tomorrowLoad": 544.6
+    },
+    {
+      "time": "14:15",
+      "baselineLoad": 1535.5,
+      "tomorrowLoad": 557.2
+    },
+    {
+      "time": "14:30",
+      "baselineLoad": 1434.3,
+      "tomorrowLoad": 540.8
+    },
+    {
+      "time": "14:45",
+      "baselineLoad": 1574.17,
+      "tomorrowLoad": 650.7
+    },
+    {
+      "time": "15:00",
+      "baselineLoad": 1483.43,
+      "tomorrowLoad": 603.9
+    },
+    {
+      "time": "15:15",
+      "baselineLoad": 716.93,
+      "tomorrowLoad": 595.8
+    },
+    {
+      "time": "15:30",
+      "baselineLoad": 643,
+      "tomorrowLoad": 619.5
+    },
+    {
+      "time": "15:45",
+      "baselineLoad": 879.03,
+      "tomorrowLoad": 611.5
+    },
+    {
+      "time": "16:00",
+      "baselineLoad": 1476.2,
+      "tomorrowLoad": 619.5
+    },
+    {
+      "time": "16:15",
+      "baselineLoad": 1437.3,
+      "tomorrowLoad": 612
+    },
+    {
+      "time": "16:30",
+      "baselineLoad": 1504.7,
+      "tomorrowLoad": 596.3
+    },
+    {
+      "time": "16:45",
+      "baselineLoad": 1826.8,
+      "tomorrowLoad": 610.2
+    },
+    {
+      "time": "17:00",
+      "baselineLoad": 1662.77,
+      "tomorrowLoad": 572.4
+    },
+    {
+      "time": "17:15",
+      "baselineLoad": 1626.67,
+      "tomorrowLoad": 573.7
+    },
+    {
+      "time": "17:30",
+      "baselineLoad": 1617,
+      "tomorrowLoad": 606.4
+    },
+    {
+      "time": "17:45",
+      "baselineLoad": 1425.47,
+      "tomorrowLoad": 624.6
+    },
+    {
+      "time": "18:00",
+      "baselineLoad": 876.93,
+      "tomorrowLoad": 643.1
+    },
+    {
+      "time": "18:15",
+      "baselineLoad": 955.9,
+      "tomorrowLoad": 681.9
+    },
+    {
+      "time": "18:30",
+      "baselineLoad": 1134.43,
+      "tomorrowLoad": 635.5
+    },
+    {
+      "time": "18:45",
+      "baselineLoad": 1521.23,
+      "tomorrowLoad": 654.4
+    },
+    {
+      "time": "19:00",
+      "baselineLoad": 1496.87,
+      "tomorrowLoad": 627.2
+    },
+    {
+      "time": "19:15",
+      "baselineLoad": 1483.87,
+      "tomorrowLoad": 658
+    },
+    {
+      "time": "19:30",
+      "baselineLoad": 1456.17,
+      "tomorrowLoad": 632.8
+    },
+    {
+      "time": "19:45",
+      "baselineLoad": 1597.27,
+      "tomorrowLoad": 651.7
+    },
+    {
+      "time": "20:00",
+      "baselineLoad": 1534.67,
+      "tomorrowLoad": 642.8
+    },
+    {
+      "time": "20:15",
+      "baselineLoad": 1653.93,
+      "tomorrowLoad": 622.2
+    },
+    {
+      "time": "20:30",
+      "baselineLoad": 1428.87,
+      "tomorrowLoad": 623.9
+    },
+    {
+      "time": "20:45",
+      "baselineLoad": 1597.23,
+      "tomorrowLoad": 610.8
+    },
+    {
+      "time": "21:00",
+      "baselineLoad": 861,
+      "tomorrowLoad": 646.1
+    },
+    {
+      "time": "21:15",
+      "baselineLoad": 754.73,
+      "tomorrowLoad": 597.5
+    },
+    {
+      "time": "21:30",
+      "baselineLoad": 639.67,
+      "tomorrowLoad": 656.7
+    },
+    {
+      "time": "21:45",
+      "baselineLoad": 584.63,
+      "tomorrowLoad": 620.9
+    },
+    {
+      "time": "22:00",
+      "baselineLoad": 604.8,
+      "tomorrowLoad": 642.8
+    },
+    {
+      "time": "22:15",
+      "baselineLoad": 551.03,
+      "tomorrowLoad": 641.1
+    },
+    {
+      "time": "22:30",
+      "baselineLoad": 542.63,
+      "tomorrowLoad": 910
+    },
+    {
+      "time": "22:45",
+      "baselineLoad": 535.1,
+      "tomorrowLoad": 910.7
+    },
+    {
+      "time": "23:00",
+      "baselineLoad": 538.43,
+      "tomorrowLoad": 795.3
+    },
+    {
+      "time": "23:15",
+      "baselineLoad": 535.5,
+      "tomorrowLoad": 798.6
+    },
+    {
+      "time": "23:30",
+      "baselineLoad": 520.37,
+      "tomorrowLoad": 712.1
+    },
+    {
+      "time": "23:45",
+      "baselineLoad": 602.67,
+      "tomorrowLoad": 598.7
+    }
+  ]
+}
