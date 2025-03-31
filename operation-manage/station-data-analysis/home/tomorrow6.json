@@ -14491,6 +14491,16 @@
       "algoSoc": 4.9,
       "algoLoadPrediction": 1175.3,
       "timeRange": "平"
+    },
+    {
+      "time": "24:00",
+      "normalEnergyOutput": 0,
+      "algoEnergyOutput": 0,
+      "realTimeElePriceForecast": 334.0976,
+      "actualSoc": 4.9,
+      "algoSoc": 4.9,
+      "algoLoadPrediction": 1175.3,
+      "timeRange": "平"
     }
   ]
 }

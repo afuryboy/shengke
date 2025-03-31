@@ -17301,6 +17301,18 @@
       "algoLoadPrediction": 1175.3,
       "realTimeElePriceForecast": 334.0976,
       "realTimeElePrice": 334.0976
+    },
+    {
+      "time": "24:00",
+      "normalEnergyOutput": 0,
+      "algoEnergyOutput": 0,
+      "actualEnergyOutput": 1.5,
+      "actualSoc": 4.9,
+      "algoSoc": 4.9,
+      "actualPower": 1176.8,
+      "algoLoadPrediction": 1171.3,
+      "realTimeElePriceForecast": 334.0976,
+      "realTimeElePrice": 334.0976
     }
   ]
 }
